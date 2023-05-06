@@ -7,6 +7,13 @@ models/*/__pycache__/
 models/*/preprocess/__pycache__/
 utils/__pycache__/
 models/checkpoints/
+models/clients/kfac_client.*
+models/clients/kfac_util.*
+models/data/*
+data/cifar10/*
+data/cifar100/*
+paper_experiments/kfac.sh
+models/wandb/*
 models/metrics/*.csv
 models/sent140/embs.json
 _build/

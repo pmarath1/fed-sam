@@ -1,0 +1,54 @@
+train_accuracy: 9.7622, 10th percentile: 7.58, 50th percentile: 9.6, 90th percentile 12.62
+train_loss: 2.3038, 10th percentile: 2.29841, 50th percentile: 2.30341, 90th percentile 2.30903
+test_accuracy: 9.55096, 10th percentile: 9.55096, 50th percentile: 9.55096, 90th percentile 9.55096
+test_loss: 2.30367, 10th percentile: 2.30367, 50th percentile: 2.30367, 90th percentile 2.30367
+--- Round 1 of 10: Training 5 Clients ---
+train_accuracy: 10.2142, 10th percentile: 7.58, 50th percentile: 10.2, 90th percentile 12.82
+train_loss: 2.3026, 10th percentile: 2.29734, 50th percentile: 2.30231, 90th percentile 2.30817
+test_accuracy: 9.78098, 10th percentile: 9.78098, 50th percentile: 9.78098, 90th percentile 9.78098
+test_loss: 2.30243, 10th percentile: 2.30243, 50th percentile: 2.30243, 90th percentile 2.30243
+--- Round 2 of 10: Training 5 Clients ---
+train_accuracy: 10.3462, 10th percentile: 7.8, 50th percentile: 10.5, 90th percentile 13
+train_loss: 2.30141, 10th percentile: 2.29553, 50th percentile: 2.30094, 90th percentile 2.30769
+test_accuracy: 10.031, 10th percentile: 10.031, 50th percentile: 10.031, 90th percentile 10.031
+test_loss: 2.30118, 10th percentile: 2.30118, 50th percentile: 2.30118, 90th percentile 2.30118
+--- Round 3 of 10: Training 5 Clients ---
+train_accuracy: 10.7742, 10th percentile: 7.18, 50th percentile: 10.8, 90th percentile 14
+train_loss: 2.30002, 10th percentile: 2.29411, 50th percentile: 2.29964, 90th percentile 2.30597
+test_accuracy: 10.5011, 10th percentile: 10.5011, 50th percentile: 10.5011, 90th percentile 10.5011
+test_loss: 2.29982, 10th percentile: 2.29982, 50th percentile: 2.29982, 90th percentile 2.29982
+--- Round 4 of 10: Training 5 Clients ---
+train_accuracy: 11.0702, 10th percentile: 7.96, 50th percentile: 11.2, 90th percentile 14.02
+train_loss: 2.29877, 10th percentile: 2.29309, 50th percentile: 2.29868, 90th percentile 2.30448
+test_accuracy: 11.2311, 10th percentile: 11.2311, 50th percentile: 11.2311, 90th percentile 11.2311
+test_loss: 2.29843, 10th percentile: 2.29843, 50th percentile: 2.29843, 90th percentile 2.29843
+--- Round 5 of 10: Training 5 Clients ---
+train_accuracy: 11.5162, 10th percentile: 7.98, 50th percentile: 11.6, 90th percentile 15.4
+train_loss: 2.29743, 10th percentile: 2.29215, 50th percentile: 2.29737, 90th percentile 2.30327
+test_accuracy: 11.7212, 10th percentile: 11.7212, 50th percentile: 11.7212, 90th percentile 11.7212
+test_loss: 2.29704, 10th percentile: 2.29704, 50th percentile: 2.29704, 90th percentile 2.29704
+--- Round 6 of 10: Training 5 Clients ---
+train_accuracy: 12.5683, 10th percentile: 8.78, 50th percentile: 12.4, 90th percentile 16.04
+train_loss: 2.29577, 10th percentile: 2.29036, 50th percentile: 2.29559, 90th percentile 2.30141
+test_accuracy: 12.7813, 10th percentile: 12.7813, 50th percentile: 12.7813, 90th percentile 12.7813
+test_loss: 2.29544, 10th percentile: 2.29544, 50th percentile: 2.29544, 90th percentile 2.29544
+--- Round 7 of 10: Training 5 Clients ---
+train_accuracy: 14.6363, 10th percentile: 11.78, 50th percentile: 14.7, 90th percentile 17.82
+train_loss: 2.29416, 10th percentile: 2.28878, 50th percentile: 2.29403, 90th percentile 2.29968
+test_accuracy: 15.0915, 10th percentile: 15.0915, 50th percentile: 15.0915, 90th percentile 15.0915
+test_loss: 2.29374, 10th percentile: 2.29374, 50th percentile: 2.29374, 90th percentile 2.29374
+--- Round 8 of 10: Training 5 Clients ---
+train_accuracy: 16.0243, 10th percentile: 12.2, 50th percentile: 16.2, 90th percentile 19.24
+train_loss: 2.29261, 10th percentile: 2.28642, 50th percentile: 2.29271, 90th percentile 2.29893
+test_accuracy: 16.4916, 10th percentile: 16.4916, 50th percentile: 16.4916, 90th percentile 16.4916
+test_loss: 2.29219, 10th percentile: 2.29219, 50th percentile: 2.29219, 90th percentile 2.29219
+--- Round 9 of 10: Training 5 Clients ---
+train_accuracy: 17.1743, 10th percentile: 13.6, 50th percentile: 17, 90th percentile 20.64
+train_loss: 2.291, 10th percentile: 2.28468, 50th percentile: 2.29025, 90th percentile 2.29785
+test_accuracy: 17.4917, 10th percentile: 17.4917, 50th percentile: 17.4917, 90th percentile 17.4917
+test_loss: 2.2904, 10th percentile: 2.2904, 50th percentile: 2.2904, 90th percentile 2.2904
+--- Round 10 of 10: Training 5 Clients ---
+train_accuracy: 17.4243, 10th percentile: 13.78, 50th percentile: 17.4, 90th percentile 21.2
+train_loss: 2.28915, 10th percentile: 2.28264, 50th percentile: 2.28928, 90th percentile 2.29521
+test_accuracy: 17.9218, 10th percentile: 17.9218, 50th percentile: 17.9218, 90th percentile 17.9218
+test_loss: 2.28855, 10th percentile: 2.28855, 50th percentile: 2.28855, 90th percentile 2.28855

@@ -3,8 +3,8 @@ import argparse
 DATASETS = ['cifar10', 'cifar100']
 SERVER_ALGORITHMS = ['fedavg', 'fedopt']
 SERVER_OPTS = ['sgd', 'adam', 'adagrad', 'fedavgm']
-CLIENT_ALGORITHMS = ['asam', 'sam']
-MINIMIZERS = ['sam', 'asam']
+CLIENT_ALGORITHMS = ['asam', 'sam','kfac','swa']
+MINIMIZERS = ['sam', 'asam','kfac','swa']
 SIM_TIMES = ['small', 'medium', 'large']
 
 def parse_args():

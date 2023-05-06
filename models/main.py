@@ -120,14 +120,17 @@ def main():
     current_time = start_time.strftime("%m%d%y_%H:%M:%S")
 
     ckpt_path, res_path, file, ckpt_name = create_paths(args, current_time, alpha=alpha, resume=wandb.run.resumed)
-    ckpt_name = job_name + '_' + current_time + '.ckpt'
+    ckpt_name = job_name + '_' + '.ckpt'#current_time + '.ckpt'
     if args.load:
         ckpt_name = ckpt_path_resumed
         if 'round' in ckpt_name:
             ckpt_name = ckpt_name.partition("_")[2]
         print("Checkpoint name:", ckpt_name)
 
-    fp = open(file, "w")
+    # if not os.path.exists(file):
+    #     os.makedirs(file)
+    print (file)
+    fp = open(file,'w')
     last_accuracies = []
 
     print_stats(start_round, server, train_clients, train_client_num_samples, test_clients, test_client_num_samples,
@@ -198,7 +201,7 @@ def main():
 
         # Save round global model checkpoint
         if (i + 1) == num_rounds * 0.05 or (i + 1) == num_rounds * 0.25 or (i + 1) == num_rounds * 0.5 or (i + 1) == num_rounds * 0.75:
-            where_saved = server.save_model(i+1, os.path.join(ckpt_path, 'round:' + str(i+1) + '_' + job_name + '_' + current_time + '.ckpt'),
+            where_saved = server.save_model(i+1, os.path.join(ckpt_path, 'round:' + str(i+1) + '_' + job_name + '_' '.ckpt'),#+ current_time + '.ckpt'),
                                             swa_n if args.swa else None)
         else:
             where_saved = server.save_model(i + 1, os.path.join(ckpt_path, ckpt_name), swa_n if args.swa else None)
@@ -207,7 +210,7 @@ def main():
         wandb.save(file)
 
     ## FINAL ANALYSIS ##
-    where_saved = server.save_model(num_rounds, os.path.join(ckpt_path, 'round:' + str(num_rounds) + '_' + job_name + '_' + current_time + '.ckpt'))
+    where_saved = server.save_model(num_rounds, os.path.join(ckpt_path, 'round:' + str(num_rounds) + '_' + job_name + '_' + '.ckpt'))#current_time + '.ckpt'))
     wandb.save(where_saved)
     print('Checkpoint saved in path: %s' % where_saved)
 

@@ -24,7 +24,7 @@ def create_paths(args, current_time, alpha=None, resume=False):
 
     ckpt_name = None
     if alpha is not None:
-        file = os.path.join(res_path, 'results_' + str(alpha) + run_info +  '.txt')
+        file = os.path.join(res_path, 'results_' + str(alpha) +  '.txt') #run_info +  '.txt')
         if not resume:
             ckpt_name = os.path.join(ckpt_path, '{}.ckpt'.format(str(alpha) + run_info))
     else:
@@ -32,7 +32,7 @@ def create_paths(args, current_time, alpha=None, resume=False):
         if not resume:
             ckpt_name = os.path.join(ckpt_path, '{}.ckpt'.format(run_info))
 
-    return ckpt_path, res_path, file, ckpt_name
+    return ckpt_path, res_path, file.replace(':',"_"), ckpt_name
 
 def get_run_checkpoint(run, dataset, restart_round=None):
     api = wandb.Api()

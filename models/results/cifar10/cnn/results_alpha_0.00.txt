@@ -1,0 +1,1440 @@
+train_accuracy: 9.71819, 10th percentile: 0, 50th percentile: 0, 90th percentile 40.8
+train_loss: 2.30381, 10th percentile: 2.25067, 50th percentile: 2.30144, 90th percentile 2.34133
+test_accuracy: 9.55096, 10th percentile: 9.55096, 50th percentile: 9.55096, 90th percentile 9.55096
+test_loss: 2.30367, 10th percentile: 2.30367, 50th percentile: 2.30367, 90th percentile 2.30367
+--- Round 1 of 1000: Training 10 Clients ---
+--- Round 2 of 1000: Training 10 Clients ---
+--- Round 3 of 1000: Training 10 Clients ---
+--- Round 4 of 1000: Training 10 Clients ---
+--- Round 5 of 1000: Training 10 Clients ---
+--- Round 6 of 1000: Training 10 Clients ---
+--- Round 7 of 1000: Training 10 Clients ---
+--- Round 8 of 1000: Training 10 Clients ---
+--- Round 9 of 1000: Training 10 Clients ---
+--- Round 10 of 1000: Training 10 Clients ---
+--- Round 11 of 1000: Training 10 Clients ---
+--- Round 12 of 1000: Training 10 Clients ---
+--- Round 13 of 1000: Training 10 Clients ---
+--- Round 14 of 1000: Training 10 Clients ---
+--- Round 15 of 1000: Training 10 Clients ---
+--- Round 16 of 1000: Training 10 Clients ---
+--- Round 17 of 1000: Training 10 Clients ---
+--- Round 18 of 1000: Training 10 Clients ---
+--- Round 19 of 1000: Training 10 Clients ---
+--- Round 20 of 1000: Training 10 Clients ---
+--- Round 21 of 1000: Training 10 Clients ---
+--- Round 22 of 1000: Training 10 Clients ---
+--- Round 23 of 1000: Training 10 Clients ---
+--- Round 24 of 1000: Training 10 Clients ---
+--- Round 25 of 1000: Training 10 Clients ---
+--- Round 26 of 1000: Training 10 Clients ---
+--- Round 27 of 1000: Training 10 Clients ---
+--- Round 28 of 1000: Training 10 Clients ---
+--- Round 29 of 1000: Training 10 Clients ---
+--- Round 30 of 1000: Training 10 Clients ---
+--- Round 31 of 1000: Training 10 Clients ---
+--- Round 32 of 1000: Training 10 Clients ---
+--- Round 33 of 1000: Training 10 Clients ---
+--- Round 34 of 1000: Training 10 Clients ---
+--- Round 35 of 1000: Training 10 Clients ---
+--- Round 36 of 1000: Training 10 Clients ---
+--- Round 37 of 1000: Training 10 Clients ---
+--- Round 38 of 1000: Training 10 Clients ---
+--- Round 39 of 1000: Training 10 Clients ---
+--- Round 40 of 1000: Training 10 Clients ---
+--- Round 41 of 1000: Training 10 Clients ---
+--- Round 42 of 1000: Training 10 Clients ---
+--- Round 43 of 1000: Training 10 Clients ---
+--- Round 44 of 1000: Training 10 Clients ---
+--- Round 45 of 1000: Training 10 Clients ---
+--- Round 46 of 1000: Training 10 Clients ---
+--- Round 47 of 1000: Training 10 Clients ---
+--- Round 48 of 1000: Training 10 Clients ---
+--- Round 49 of 1000: Training 10 Clients ---
+--- Round 50 of 1000: Training 10 Clients ---
+--- Round 51 of 1000: Training 10 Clients ---
+--- Round 52 of 1000: Training 10 Clients ---
+--- Round 53 of 1000: Training 10 Clients ---
+--- Round 54 of 1000: Training 10 Clients ---
+--- Round 55 of 1000: Training 10 Clients ---
+--- Round 56 of 1000: Training 10 Clients ---
+--- Round 57 of 1000: Training 10 Clients ---
+--- Round 58 of 1000: Training 10 Clients ---
+--- Round 59 of 1000: Training 10 Clients ---
+--- Round 60 of 1000: Training 10 Clients ---
+--- Round 61 of 1000: Training 10 Clients ---
+--- Round 62 of 1000: Training 10 Clients ---
+--- Round 63 of 1000: Training 10 Clients ---
+--- Round 64 of 1000: Training 10 Clients ---
+--- Round 65 of 1000: Training 10 Clients ---
+--- Round 66 of 1000: Training 10 Clients ---
+--- Round 67 of 1000: Training 10 Clients ---
+--- Round 68 of 1000: Training 10 Clients ---
+--- Round 69 of 1000: Training 10 Clients ---
+--- Round 70 of 1000: Training 10 Clients ---
+--- Round 71 of 1000: Training 10 Clients ---
+--- Round 72 of 1000: Training 10 Clients ---
+--- Round 73 of 1000: Training 10 Clients ---
+--- Round 74 of 1000: Training 10 Clients ---
+--- Round 75 of 1000: Training 10 Clients ---
+--- Round 76 of 1000: Training 10 Clients ---
+--- Round 77 of 1000: Training 10 Clients ---
+--- Round 78 of 1000: Training 10 Clients ---
+--- Round 79 of 1000: Training 10 Clients ---
+--- Round 80 of 1000: Training 10 Clients ---
+--- Round 81 of 1000: Training 10 Clients ---
+--- Round 82 of 1000: Training 10 Clients ---
+--- Round 83 of 1000: Training 10 Clients ---
+--- Round 84 of 1000: Training 10 Clients ---
+--- Round 85 of 1000: Training 10 Clients ---
+--- Round 86 of 1000: Training 10 Clients ---
+--- Round 87 of 1000: Training 10 Clients ---
+--- Round 88 of 1000: Training 10 Clients ---
+--- Round 89 of 1000: Training 10 Clients ---
+--- Round 90 of 1000: Training 10 Clients ---
+--- Round 91 of 1000: Training 10 Clients ---
+--- Round 92 of 1000: Training 10 Clients ---
+--- Round 93 of 1000: Training 10 Clients ---
+--- Round 94 of 1000: Training 10 Clients ---
+--- Round 95 of 1000: Training 10 Clients ---
+--- Round 96 of 1000: Training 10 Clients ---
+--- Round 97 of 1000: Training 10 Clients ---
+--- Round 98 of 1000: Training 10 Clients ---
+--- Round 99 of 1000: Training 10 Clients ---
+--- Round 100 of 1000: Training 10 Clients ---
+train_accuracy: 14.5863, 10th percentile: 0, 50th percentile: 0, 90th percentile 57.16
+train_loss: 2.6638, 10th percentile: 1.19086, 50th percentile: 2.68849, 90th percentile 3.68837
+test_accuracy: 14.9315, 10th percentile: 14.9315, 50th percentile: 14.9315, 90th percentile 14.9315
+test_loss: 2.61484, 10th percentile: 2.61484, 50th percentile: 2.61484, 90th percentile 2.61484
+--- Round 101 of 1000: Training 10 Clients ---
+--- Round 102 of 1000: Training 10 Clients ---
+--- Round 103 of 1000: Training 10 Clients ---
+--- Round 104 of 1000: Training 10 Clients ---
+--- Round 105 of 1000: Training 10 Clients ---
+--- Round 106 of 1000: Training 10 Clients ---
+--- Round 107 of 1000: Training 10 Clients ---
+--- Round 108 of 1000: Training 10 Clients ---
+--- Round 109 of 1000: Training 10 Clients ---
+--- Round 110 of 1000: Training 10 Clients ---
+--- Round 111 of 1000: Training 10 Clients ---
+--- Round 112 of 1000: Training 10 Clients ---
+--- Round 113 of 1000: Training 10 Clients ---
+--- Round 114 of 1000: Training 10 Clients ---
+--- Round 115 of 1000: Training 10 Clients ---
+--- Round 116 of 1000: Training 10 Clients ---
+--- Round 117 of 1000: Training 10 Clients ---
+--- Round 118 of 1000: Training 10 Clients ---
+--- Round 119 of 1000: Training 10 Clients ---
+--- Round 120 of 1000: Training 10 Clients ---
+--- Round 121 of 1000: Training 10 Clients ---
+--- Round 122 of 1000: Training 10 Clients ---
+--- Round 123 of 1000: Training 10 Clients ---
+--- Round 124 of 1000: Training 10 Clients ---
+--- Round 125 of 1000: Training 10 Clients ---
+--- Round 126 of 1000: Training 10 Clients ---
+--- Round 127 of 1000: Training 10 Clients ---
+--- Round 128 of 1000: Training 10 Clients ---
+--- Round 129 of 1000: Training 10 Clients ---
+--- Round 130 of 1000: Training 10 Clients ---
+--- Round 131 of 1000: Training 10 Clients ---
+--- Round 132 of 1000: Training 10 Clients ---
+--- Round 133 of 1000: Training 10 Clients ---
+--- Round 134 of 1000: Training 10 Clients ---
+--- Round 135 of 1000: Training 10 Clients ---
+--- Round 136 of 1000: Training 10 Clients ---
+--- Round 137 of 1000: Training 10 Clients ---
+--- Round 138 of 1000: Training 10 Clients ---
+--- Round 139 of 1000: Training 10 Clients ---
+--- Round 140 of 1000: Training 10 Clients ---
+--- Round 141 of 1000: Training 10 Clients ---
+--- Round 142 of 1000: Training 10 Clients ---
+--- Round 143 of 1000: Training 10 Clients ---
+--- Round 144 of 1000: Training 10 Clients ---
+--- Round 145 of 1000: Training 10 Clients ---
+--- Round 146 of 1000: Training 10 Clients ---
+--- Round 147 of 1000: Training 10 Clients ---
+--- Round 148 of 1000: Training 10 Clients ---
+--- Round 149 of 1000: Training 10 Clients ---
+--- Round 150 of 1000: Training 10 Clients ---
+--- Round 151 of 1000: Training 10 Clients ---
+--- Round 152 of 1000: Training 10 Clients ---
+--- Round 153 of 1000: Training 10 Clients ---
+--- Round 154 of 1000: Training 10 Clients ---
+--- Round 155 of 1000: Training 10 Clients ---
+--- Round 156 of 1000: Training 10 Clients ---
+--- Round 157 of 1000: Training 10 Clients ---
+--- Round 158 of 1000: Training 10 Clients ---
+--- Round 159 of 1000: Training 10 Clients ---
+--- Round 160 of 1000: Training 10 Clients ---
+--- Round 161 of 1000: Training 10 Clients ---
+--- Round 162 of 1000: Training 10 Clients ---
+--- Round 163 of 1000: Training 10 Clients ---
+--- Round 164 of 1000: Training 10 Clients ---
+--- Round 165 of 1000: Training 10 Clients ---
+--- Round 166 of 1000: Training 10 Clients ---
+--- Round 167 of 1000: Training 10 Clients ---
+--- Round 168 of 1000: Training 10 Clients ---
+--- Round 169 of 1000: Training 10 Clients ---
+--- Round 170 of 1000: Training 10 Clients ---
+--- Round 171 of 1000: Training 10 Clients ---
+--- Round 172 of 1000: Training 10 Clients ---
+--- Round 173 of 1000: Training 10 Clients ---
+--- Round 174 of 1000: Training 10 Clients ---
+--- Round 175 of 1000: Training 10 Clients ---
+--- Round 176 of 1000: Training 10 Clients ---
+--- Round 177 of 1000: Training 10 Clients ---
+--- Round 178 of 1000: Training 10 Clients ---
+--- Round 179 of 1000: Training 10 Clients ---
+--- Round 180 of 1000: Training 10 Clients ---
+--- Round 181 of 1000: Training 10 Clients ---
+--- Round 182 of 1000: Training 10 Clients ---
+--- Round 183 of 1000: Training 10 Clients ---
+--- Round 184 of 1000: Training 10 Clients ---
+--- Round 185 of 1000: Training 10 Clients ---
+--- Round 186 of 1000: Training 10 Clients ---
+--- Round 187 of 1000: Training 10 Clients ---
+--- Round 188 of 1000: Training 10 Clients ---
+--- Round 189 of 1000: Training 10 Clients ---
+--- Round 190 of 1000: Training 10 Clients ---
+--- Round 191 of 1000: Training 10 Clients ---
+--- Round 192 of 1000: Training 10 Clients ---
+--- Round 193 of 1000: Training 10 Clients ---
+--- Round 194 of 1000: Training 10 Clients ---
+--- Round 195 of 1000: Training 10 Clients ---
+--- Round 196 of 1000: Training 10 Clients ---
+--- Round 197 of 1000: Training 10 Clients ---
+--- Round 198 of 1000: Training 10 Clients ---
+--- Round 199 of 1000: Training 10 Clients ---
+--- Round 200 of 1000: Training 10 Clients ---
+train_accuracy: 18.7064, 10th percentile: 0, 50th percentile: 0, 90th percentile 50.08
+train_loss: 2.45039, 10th percentile: 1.44205, 50th percentile: 2.4918, 90th percentile 3.44006
+test_accuracy: 19.952, 10th percentile: 19.952, 50th percentile: 19.952, 90th percentile 19.952
+test_loss: 2.38985, 10th percentile: 2.38985, 50th percentile: 2.38985, 90th percentile 2.38985
+--- Round 201 of 1000: Training 10 Clients ---
+--- Round 202 of 1000: Training 10 Clients ---
+--- Round 203 of 1000: Training 10 Clients ---
+--- Round 204 of 1000: Training 10 Clients ---
+--- Round 205 of 1000: Training 10 Clients ---
+--- Round 206 of 1000: Training 10 Clients ---
+--- Round 207 of 1000: Training 10 Clients ---
+--- Round 208 of 1000: Training 10 Clients ---
+--- Round 209 of 1000: Training 10 Clients ---
+--- Round 210 of 1000: Training 10 Clients ---
+--- Round 211 of 1000: Training 10 Clients ---
+--- Round 212 of 1000: Training 10 Clients ---
+--- Round 213 of 1000: Training 10 Clients ---
+--- Round 214 of 1000: Training 10 Clients ---
+--- Round 215 of 1000: Training 10 Clients ---
+--- Round 216 of 1000: Training 10 Clients ---
+--- Round 217 of 1000: Training 10 Clients ---
+--- Round 218 of 1000: Training 10 Clients ---
+--- Round 219 of 1000: Training 10 Clients ---
+--- Round 220 of 1000: Training 10 Clients ---
+--- Round 221 of 1000: Training 10 Clients ---
+--- Round 222 of 1000: Training 10 Clients ---
+--- Round 223 of 1000: Training 10 Clients ---
+--- Round 224 of 1000: Training 10 Clients ---
+--- Round 225 of 1000: Training 10 Clients ---
+--- Round 226 of 1000: Training 10 Clients ---
+--- Round 227 of 1000: Training 10 Clients ---
+--- Round 228 of 1000: Training 10 Clients ---
+--- Round 229 of 1000: Training 10 Clients ---
+--- Round 230 of 1000: Training 10 Clients ---
+--- Round 231 of 1000: Training 10 Clients ---
+--- Round 232 of 1000: Training 10 Clients ---
+--- Round 233 of 1000: Training 10 Clients ---
+--- Round 234 of 1000: Training 10 Clients ---
+--- Round 235 of 1000: Training 10 Clients ---
+--- Round 236 of 1000: Training 10 Clients ---
+--- Round 237 of 1000: Training 10 Clients ---
+--- Round 238 of 1000: Training 10 Clients ---
+--- Round 239 of 1000: Training 10 Clients ---
+--- Round 240 of 1000: Training 10 Clients ---
+--- Round 241 of 1000: Training 10 Clients ---
+--- Round 242 of 1000: Training 10 Clients ---
+--- Round 243 of 1000: Training 10 Clients ---
+--- Round 244 of 1000: Training 10 Clients ---
+--- Round 245 of 1000: Training 10 Clients ---
+--- Round 246 of 1000: Training 10 Clients ---
+--- Round 247 of 1000: Training 10 Clients ---
+--- Round 248 of 1000: Training 10 Clients ---
+--- Round 249 of 1000: Training 10 Clients ---
+--- Round 250 of 1000: Training 10 Clients ---
+--- Round 251 of 1000: Training 10 Clients ---
+--- Round 252 of 1000: Training 10 Clients ---
+--- Round 253 of 1000: Training 10 Clients ---
+--- Round 254 of 1000: Training 10 Clients ---
+--- Round 255 of 1000: Training 10 Clients ---
+--- Round 256 of 1000: Training 10 Clients ---
+--- Round 257 of 1000: Training 10 Clients ---
+--- Round 258 of 1000: Training 10 Clients ---
+--- Round 259 of 1000: Training 10 Clients ---
+--- Round 260 of 1000: Training 10 Clients ---
+--- Round 261 of 1000: Training 10 Clients ---
+--- Round 262 of 1000: Training 10 Clients ---
+--- Round 263 of 1000: Training 10 Clients ---
+--- Round 264 of 1000: Training 10 Clients ---
+--- Round 265 of 1000: Training 10 Clients ---
+--- Round 266 of 1000: Training 10 Clients ---
+--- Round 267 of 1000: Training 10 Clients ---
+--- Round 268 of 1000: Training 10 Clients ---
+--- Round 269 of 1000: Training 10 Clients ---
+--- Round 270 of 1000: Training 10 Clients ---
+--- Round 271 of 1000: Training 10 Clients ---
+--- Round 272 of 1000: Training 10 Clients ---
+--- Round 273 of 1000: Training 10 Clients ---
+--- Round 274 of 1000: Training 10 Clients ---
+--- Round 275 of 1000: Training 10 Clients ---
+--- Round 276 of 1000: Training 10 Clients ---
+--- Round 277 of 1000: Training 10 Clients ---
+--- Round 278 of 1000: Training 10 Clients ---
+--- Round 279 of 1000: Training 10 Clients ---
+--- Round 280 of 1000: Training 10 Clients ---
+--- Round 281 of 1000: Training 10 Clients ---
+--- Round 282 of 1000: Training 10 Clients ---
+--- Round 283 of 1000: Training 10 Clients ---
+--- Round 284 of 1000: Training 10 Clients ---
+--- Round 285 of 1000: Training 10 Clients ---
+--- Round 286 of 1000: Training 10 Clients ---
+--- Round 287 of 1000: Training 10 Clients ---
+--- Round 288 of 1000: Training 10 Clients ---
+--- Round 289 of 1000: Training 10 Clients ---
+--- Round 290 of 1000: Training 10 Clients ---
+--- Round 291 of 1000: Training 10 Clients ---
+--- Round 292 of 1000: Training 10 Clients ---
+--- Round 293 of 1000: Training 10 Clients ---
+--- Round 294 of 1000: Training 10 Clients ---
+--- Round 295 of 1000: Training 10 Clients ---
+--- Round 296 of 1000: Training 10 Clients ---
+--- Round 297 of 1000: Training 10 Clients ---
+--- Round 298 of 1000: Training 10 Clients ---
+--- Round 299 of 1000: Training 10 Clients ---
+--- Round 300 of 1000: Training 10 Clients ---
+train_accuracy: 20.3004, 10th percentile: 0, 50th percentile: 5.9, 90th percentile 60.06
+train_loss: 2.11336, 10th percentile: 1.61365, 50th percentile: 2.13422, 90th percentile 2.5352
+test_accuracy: 23.0223, 10th percentile: 23.0223, 50th percentile: 23.0223, 90th percentile 23.0223
+test_loss: 2.0552, 10th percentile: 2.0552, 50th percentile: 2.0552, 90th percentile 2.0552
+--- Round 301 of 1000: Training 10 Clients ---
+--- Round 302 of 1000: Training 10 Clients ---
+--- Round 303 of 1000: Training 10 Clients ---
+--- Round 304 of 1000: Training 10 Clients ---
+--- Round 305 of 1000: Training 10 Clients ---
+--- Round 306 of 1000: Training 10 Clients ---
+--- Round 307 of 1000: Training 10 Clients ---
+--- Round 308 of 1000: Training 10 Clients ---
+--- Round 309 of 1000: Training 10 Clients ---
+--- Round 310 of 1000: Training 10 Clients ---
+--- Round 311 of 1000: Training 10 Clients ---
+--- Round 312 of 1000: Training 10 Clients ---
+--- Round 313 of 1000: Training 10 Clients ---
+--- Round 314 of 1000: Training 10 Clients ---
+--- Round 315 of 1000: Training 10 Clients ---
+--- Round 316 of 1000: Training 10 Clients ---
+--- Round 317 of 1000: Training 10 Clients ---
+--- Round 318 of 1000: Training 10 Clients ---
+--- Round 319 of 1000: Training 10 Clients ---
+--- Round 320 of 1000: Training 10 Clients ---
+--- Round 321 of 1000: Training 10 Clients ---
+--- Round 322 of 1000: Training 10 Clients ---
+--- Round 323 of 1000: Training 10 Clients ---
+--- Round 324 of 1000: Training 10 Clients ---
+--- Round 325 of 1000: Training 10 Clients ---
+--- Round 326 of 1000: Training 10 Clients ---
+--- Round 327 of 1000: Training 10 Clients ---
+--- Round 328 of 1000: Training 10 Clients ---
+--- Round 329 of 1000: Training 10 Clients ---
+--- Round 330 of 1000: Training 10 Clients ---
+--- Round 331 of 1000: Training 10 Clients ---
+--- Round 332 of 1000: Training 10 Clients ---
+--- Round 333 of 1000: Training 10 Clients ---
+--- Round 334 of 1000: Training 10 Clients ---
+--- Round 335 of 1000: Training 10 Clients ---
+--- Round 336 of 1000: Training 10 Clients ---
+--- Round 337 of 1000: Training 10 Clients ---
+--- Round 338 of 1000: Training 10 Clients ---
+--- Round 339 of 1000: Training 10 Clients ---
+--- Round 340 of 1000: Training 10 Clients ---
+--- Round 341 of 1000: Training 10 Clients ---
+--- Round 342 of 1000: Training 10 Clients ---
+--- Round 343 of 1000: Training 10 Clients ---
+--- Round 344 of 1000: Training 10 Clients ---
+--- Round 345 of 1000: Training 10 Clients ---
+--- Round 346 of 1000: Training 10 Clients ---
+--- Round 347 of 1000: Training 10 Clients ---
+--- Round 348 of 1000: Training 10 Clients ---
+--- Round 349 of 1000: Training 10 Clients ---
+--- Round 350 of 1000: Training 10 Clients ---
+--- Round 351 of 1000: Training 10 Clients ---
+--- Round 352 of 1000: Training 10 Clients ---
+--- Round 353 of 1000: Training 10 Clients ---
+--- Round 354 of 1000: Training 10 Clients ---
+--- Round 355 of 1000: Training 10 Clients ---
+--- Round 356 of 1000: Training 10 Clients ---
+--- Round 357 of 1000: Training 10 Clients ---
+--- Round 358 of 1000: Training 10 Clients ---
+--- Round 359 of 1000: Training 10 Clients ---
+--- Round 360 of 1000: Training 10 Clients ---
+--- Round 361 of 1000: Training 10 Clients ---
+--- Round 362 of 1000: Training 10 Clients ---
+--- Round 363 of 1000: Training 10 Clients ---
+--- Round 364 of 1000: Training 10 Clients ---
+--- Round 365 of 1000: Training 10 Clients ---
+--- Round 366 of 1000: Training 10 Clients ---
+--- Round 367 of 1000: Training 10 Clients ---
+--- Round 368 of 1000: Training 10 Clients ---
+--- Round 369 of 1000: Training 10 Clients ---
+--- Round 370 of 1000: Training 10 Clients ---
+--- Round 371 of 1000: Training 10 Clients ---
+--- Round 372 of 1000: Training 10 Clients ---
+--- Round 373 of 1000: Training 10 Clients ---
+--- Round 374 of 1000: Training 10 Clients ---
+--- Round 375 of 1000: Training 10 Clients ---
+--- Round 376 of 1000: Training 10 Clients ---
+--- Round 377 of 1000: Training 10 Clients ---
+--- Round 378 of 1000: Training 10 Clients ---
+--- Round 379 of 1000: Training 10 Clients ---
+--- Round 380 of 1000: Training 10 Clients ---
+--- Round 381 of 1000: Training 10 Clients ---
+--- Round 382 of 1000: Training 10 Clients ---
+--- Round 383 of 1000: Training 10 Clients ---
+--- Round 384 of 1000: Training 10 Clients ---
+--- Round 385 of 1000: Training 10 Clients ---
+--- Round 386 of 1000: Training 10 Clients ---
+--- Round 387 of 1000: Training 10 Clients ---
+--- Round 388 of 1000: Training 10 Clients ---
+--- Round 389 of 1000: Training 10 Clients ---
+--- Round 390 of 1000: Training 10 Clients ---
+--- Round 391 of 1000: Training 10 Clients ---
+--- Round 392 of 1000: Training 10 Clients ---
+--- Round 393 of 1000: Training 10 Clients ---
+--- Round 394 of 1000: Training 10 Clients ---
+--- Round 395 of 1000: Training 10 Clients ---
+--- Round 396 of 1000: Training 10 Clients ---
+--- Round 397 of 1000: Training 10 Clients ---
+--- Round 398 of 1000: Training 10 Clients ---
+--- Round 399 of 1000: Training 10 Clients ---
+--- Round 400 of 1000: Training 10 Clients ---
+train_accuracy: 20.2604, 10th percentile: 0, 50th percentile: 6.6, 90th percentile 51.86
+train_loss: 2.14791, 10th percentile: 1.5876, 50th percentile: 2.25656, 90th percentile 2.76271
+test_accuracy: 21.2721, 10th percentile: 21.2721, 50th percentile: 21.2721, 90th percentile 21.2721
+test_loss: 2.08702, 10th percentile: 2.08702, 50th percentile: 2.08702, 90th percentile 2.08702
+--- Round 401 of 1000: Training 10 Clients ---
+--- Round 402 of 1000: Training 10 Clients ---
+--- Round 403 of 1000: Training 10 Clients ---
+--- Round 404 of 1000: Training 10 Clients ---
+--- Round 405 of 1000: Training 10 Clients ---
+--- Round 406 of 1000: Training 10 Clients ---
+--- Round 407 of 1000: Training 10 Clients ---
+--- Round 408 of 1000: Training 10 Clients ---
+--- Round 409 of 1000: Training 10 Clients ---
+--- Round 410 of 1000: Training 10 Clients ---
+--- Round 411 of 1000: Training 10 Clients ---
+--- Round 412 of 1000: Training 10 Clients ---
+--- Round 413 of 1000: Training 10 Clients ---
+--- Round 414 of 1000: Training 10 Clients ---
+--- Round 415 of 1000: Training 10 Clients ---
+--- Round 416 of 1000: Training 10 Clients ---
+--- Round 417 of 1000: Training 10 Clients ---
+--- Round 418 of 1000: Training 10 Clients ---
+--- Round 419 of 1000: Training 10 Clients ---
+--- Round 420 of 1000: Training 10 Clients ---
+--- Round 421 of 1000: Training 10 Clients ---
+--- Round 422 of 1000: Training 10 Clients ---
+--- Round 423 of 1000: Training 10 Clients ---
+--- Round 424 of 1000: Training 10 Clients ---
+--- Round 425 of 1000: Training 10 Clients ---
+--- Round 426 of 1000: Training 10 Clients ---
+--- Round 427 of 1000: Training 10 Clients ---
+--- Round 428 of 1000: Training 10 Clients ---
+--- Round 429 of 1000: Training 10 Clients ---
+--- Round 430 of 1000: Training 10 Clients ---
+--- Round 431 of 1000: Training 10 Clients ---
+--- Round 432 of 1000: Training 10 Clients ---
+--- Round 433 of 1000: Training 10 Clients ---
+--- Round 434 of 1000: Training 10 Clients ---
+--- Round 435 of 1000: Training 10 Clients ---
+--- Round 436 of 1000: Training 10 Clients ---
+--- Round 437 of 1000: Training 10 Clients ---
+--- Round 438 of 1000: Training 10 Clients ---
+--- Round 439 of 1000: Training 10 Clients ---
+--- Round 440 of 1000: Training 10 Clients ---
+--- Round 441 of 1000: Training 10 Clients ---
+--- Round 442 of 1000: Training 10 Clients ---
+--- Round 443 of 1000: Training 10 Clients ---
+--- Round 444 of 1000: Training 10 Clients ---
+--- Round 445 of 1000: Training 10 Clients ---
+--- Round 446 of 1000: Training 10 Clients ---
+--- Round 447 of 1000: Training 10 Clients ---
+--- Round 448 of 1000: Training 10 Clients ---
+--- Round 449 of 1000: Training 10 Clients ---
+--- Round 450 of 1000: Training 10 Clients ---
+--- Round 451 of 1000: Training 10 Clients ---
+--- Round 452 of 1000: Training 10 Clients ---
+--- Round 453 of 1000: Training 10 Clients ---
+--- Round 454 of 1000: Training 10 Clients ---
+--- Round 455 of 1000: Training 10 Clients ---
+--- Round 456 of 1000: Training 10 Clients ---
+--- Round 457 of 1000: Training 10 Clients ---
+--- Round 458 of 1000: Training 10 Clients ---
+--- Round 459 of 1000: Training 10 Clients ---
+--- Round 460 of 1000: Training 10 Clients ---
+--- Round 461 of 1000: Training 10 Clients ---
+--- Round 462 of 1000: Training 10 Clients ---
+--- Round 463 of 1000: Training 10 Clients ---
+--- Round 464 of 1000: Training 10 Clients ---
+--- Round 465 of 1000: Training 10 Clients ---
+--- Round 466 of 1000: Training 10 Clients ---
+--- Round 467 of 1000: Training 10 Clients ---
+--- Round 468 of 1000: Training 10 Clients ---
+--- Round 469 of 1000: Training 10 Clients ---
+--- Round 470 of 1000: Training 10 Clients ---
+--- Round 471 of 1000: Training 10 Clients ---
+--- Round 472 of 1000: Training 10 Clients ---
+--- Round 473 of 1000: Training 10 Clients ---
+--- Round 474 of 1000: Training 10 Clients ---
+--- Round 475 of 1000: Training 10 Clients ---
+--- Round 476 of 1000: Training 10 Clients ---
+--- Round 477 of 1000: Training 10 Clients ---
+--- Round 478 of 1000: Training 10 Clients ---
+--- Round 479 of 1000: Training 10 Clients ---
+--- Round 480 of 1000: Training 10 Clients ---
+--- Round 481 of 1000: Training 10 Clients ---
+--- Round 482 of 1000: Training 10 Clients ---
+--- Round 483 of 1000: Training 10 Clients ---
+--- Round 484 of 1000: Training 10 Clients ---
+--- Round 485 of 1000: Training 10 Clients ---
+--- Round 486 of 1000: Training 10 Clients ---
+--- Round 487 of 1000: Training 10 Clients ---
+--- Round 488 of 1000: Training 10 Clients ---
+--- Round 489 of 1000: Training 10 Clients ---
+--- Round 490 of 1000: Training 10 Clients ---
+--- Round 491 of 1000: Training 10 Clients ---
+--- Round 492 of 1000: Training 10 Clients ---
+--- Round 493 of 1000: Training 10 Clients ---
+--- Round 494 of 1000: Training 10 Clients ---
+--- Round 495 of 1000: Training 10 Clients ---
+--- Round 496 of 1000: Training 10 Clients ---
+--- Round 497 of 1000: Training 10 Clients ---
+--- Round 498 of 1000: Training 10 Clients ---
+--- Round 499 of 1000: Training 10 Clients ---
+--- Round 500 of 1000: Training 10 Clients ---
+train_accuracy: 22.7345, 10th percentile: 0, 50th percentile: 14, 90th percentile 74.36
+train_loss: 2.02123, 10th percentile: 1.29565, 50th percentile: 2.06616, 90th percentile 2.56678
+test_accuracy: 25.0925, 10th percentile: 25.0925, 50th percentile: 25.0925, 90th percentile 25.0925
+test_loss: 1.95864, 10th percentile: 1.95864, 50th percentile: 1.95864, 90th percentile 1.95864
+--- Round 501 of 1000: Training 10 Clients ---
+--- Round 502 of 1000: Training 10 Clients ---
+--- Round 503 of 1000: Training 10 Clients ---
+--- Round 504 of 1000: Training 10 Clients ---
+--- Round 505 of 1000: Training 10 Clients ---
+--- Round 506 of 1000: Training 10 Clients ---
+--- Round 507 of 1000: Training 10 Clients ---
+--- Round 508 of 1000: Training 10 Clients ---
+--- Round 509 of 1000: Training 10 Clients ---
+--- Round 510 of 1000: Training 10 Clients ---
+--- Round 511 of 1000: Training 10 Clients ---
+--- Round 512 of 1000: Training 10 Clients ---
+--- Round 513 of 1000: Training 10 Clients ---
+--- Round 514 of 1000: Training 10 Clients ---
+--- Round 515 of 1000: Training 10 Clients ---
+--- Round 516 of 1000: Training 10 Clients ---
+--- Round 517 of 1000: Training 10 Clients ---
+--- Round 518 of 1000: Training 10 Clients ---
+--- Round 519 of 1000: Training 10 Clients ---
+--- Round 520 of 1000: Training 10 Clients ---
+--- Round 521 of 1000: Training 10 Clients ---
+--- Round 522 of 1000: Training 10 Clients ---
+--- Round 523 of 1000: Training 10 Clients ---
+--- Round 524 of 1000: Training 10 Clients ---
+--- Round 525 of 1000: Training 10 Clients ---
+--- Round 526 of 1000: Training 10 Clients ---
+--- Round 527 of 1000: Training 10 Clients ---
+--- Round 528 of 1000: Training 10 Clients ---
+--- Round 529 of 1000: Training 10 Clients ---
+--- Round 530 of 1000: Training 10 Clients ---
+--- Round 531 of 1000: Training 10 Clients ---
+--- Round 532 of 1000: Training 10 Clients ---
+--- Round 533 of 1000: Training 10 Clients ---
+--- Round 534 of 1000: Training 10 Clients ---
+--- Round 535 of 1000: Training 10 Clients ---
+--- Round 536 of 1000: Training 10 Clients ---
+--- Round 537 of 1000: Training 10 Clients ---
+--- Round 538 of 1000: Training 10 Clients ---
+--- Round 539 of 1000: Training 10 Clients ---
+--- Round 540 of 1000: Training 10 Clients ---
+--- Round 541 of 1000: Training 10 Clients ---
+--- Round 542 of 1000: Training 10 Clients ---
+--- Round 543 of 1000: Training 10 Clients ---
+--- Round 544 of 1000: Training 10 Clients ---
+--- Round 545 of 1000: Training 10 Clients ---
+--- Round 546 of 1000: Training 10 Clients ---
+--- Round 547 of 1000: Training 10 Clients ---
+--- Round 548 of 1000: Training 10 Clients ---
+--- Round 549 of 1000: Training 10 Clients ---
+--- Round 550 of 1000: Training 10 Clients ---
+--- Round 551 of 1000: Training 10 Clients ---
+--- Round 552 of 1000: Training 10 Clients ---
+--- Round 553 of 1000: Training 10 Clients ---
+--- Round 554 of 1000: Training 10 Clients ---
+--- Round 555 of 1000: Training 10 Clients ---
+--- Round 556 of 1000: Training 10 Clients ---
+--- Round 557 of 1000: Training 10 Clients ---
+--- Round 558 of 1000: Training 10 Clients ---
+--- Round 559 of 1000: Training 10 Clients ---
+--- Round 560 of 1000: Training 10 Clients ---
+--- Round 561 of 1000: Training 10 Clients ---
+--- Round 562 of 1000: Training 10 Clients ---
+--- Round 563 of 1000: Training 10 Clients ---
+--- Round 564 of 1000: Training 10 Clients ---
+--- Round 565 of 1000: Training 10 Clients ---
+--- Round 566 of 1000: Training 10 Clients ---
+--- Round 567 of 1000: Training 10 Clients ---
+--- Round 568 of 1000: Training 10 Clients ---
+--- Round 569 of 1000: Training 10 Clients ---
+--- Round 570 of 1000: Training 10 Clients ---
+--- Round 571 of 1000: Training 10 Clients ---
+--- Round 572 of 1000: Training 10 Clients ---
+--- Round 573 of 1000: Training 10 Clients ---
+--- Round 574 of 1000: Training 10 Clients ---
+--- Round 575 of 1000: Training 10 Clients ---
+--- Round 576 of 1000: Training 10 Clients ---
+--- Round 577 of 1000: Training 10 Clients ---
+--- Round 578 of 1000: Training 10 Clients ---
+--- Round 579 of 1000: Training 10 Clients ---
+--- Round 580 of 1000: Training 10 Clients ---
+--- Round 581 of 1000: Training 10 Clients ---
+--- Round 582 of 1000: Training 10 Clients ---
+--- Round 583 of 1000: Training 10 Clients ---
+--- Round 584 of 1000: Training 10 Clients ---
+--- Round 585 of 1000: Training 10 Clients ---
+--- Round 586 of 1000: Training 10 Clients ---
+--- Round 587 of 1000: Training 10 Clients ---
+--- Round 588 of 1000: Training 10 Clients ---
+--- Round 589 of 1000: Training 10 Clients ---
+--- Round 590 of 1000: Training 10 Clients ---
+--- Round 591 of 1000: Training 10 Clients ---
+--- Round 592 of 1000: Training 10 Clients ---
+--- Round 593 of 1000: Training 10 Clients ---
+--- Round 594 of 1000: Training 10 Clients ---
+--- Round 595 of 1000: Training 10 Clients ---
+--- Round 596 of 1000: Training 10 Clients ---
+--- Round 597 of 1000: Training 10 Clients ---
+--- Round 598 of 1000: Training 10 Clients ---
+--- Round 599 of 1000: Training 10 Clients ---
+--- Round 600 of 1000: Training 10 Clients ---
+train_accuracy: 26.2565, 10th percentile: 0, 50th percentile: 13.4, 90th percentile 67.22
+train_loss: 2.02627, 10th percentile: 1.21958, 50th percentile: 2.13068, 90th percentile 2.69364
+test_accuracy: 28.6729, 10th percentile: 28.6729, 50th percentile: 28.6729, 90th percentile 28.6729
+test_loss: 1.95342, 10th percentile: 1.95342, 50th percentile: 1.95342, 90th percentile 1.95342
+--- Round 601 of 1000: Training 10 Clients ---
+--- Round 602 of 1000: Training 10 Clients ---
+--- Round 603 of 1000: Training 10 Clients ---
+--- Round 604 of 1000: Training 10 Clients ---
+--- Round 605 of 1000: Training 10 Clients ---
+--- Round 606 of 1000: Training 10 Clients ---
+--- Round 607 of 1000: Training 10 Clients ---
+--- Round 608 of 1000: Training 10 Clients ---
+--- Round 609 of 1000: Training 10 Clients ---
+--- Round 610 of 1000: Training 10 Clients ---
+--- Round 611 of 1000: Training 10 Clients ---
+--- Round 612 of 1000: Training 10 Clients ---
+--- Round 613 of 1000: Training 10 Clients ---
+--- Round 614 of 1000: Training 10 Clients ---
+--- Round 615 of 1000: Training 10 Clients ---
+--- Round 616 of 1000: Training 10 Clients ---
+--- Round 617 of 1000: Training 10 Clients ---
+--- Round 618 of 1000: Training 10 Clients ---
+--- Round 619 of 1000: Training 10 Clients ---
+--- Round 620 of 1000: Training 10 Clients ---
+--- Round 621 of 1000: Training 10 Clients ---
+--- Round 622 of 1000: Training 10 Clients ---
+--- Round 623 of 1000: Training 10 Clients ---
+--- Round 624 of 1000: Training 10 Clients ---
+--- Round 625 of 1000: Training 10 Clients ---
+--- Round 626 of 1000: Training 10 Clients ---
+--- Round 627 of 1000: Training 10 Clients ---
+--- Round 628 of 1000: Training 10 Clients ---
+--- Round 629 of 1000: Training 10 Clients ---
+--- Round 630 of 1000: Training 10 Clients ---
+--- Round 631 of 1000: Training 10 Clients ---
+--- Round 632 of 1000: Training 10 Clients ---
+--- Round 633 of 1000: Training 10 Clients ---
+--- Round 634 of 1000: Training 10 Clients ---
+--- Round 635 of 1000: Training 10 Clients ---
+--- Round 636 of 1000: Training 10 Clients ---
+--- Round 637 of 1000: Training 10 Clients ---
+--- Round 638 of 1000: Training 10 Clients ---
+--- Round 639 of 1000: Training 10 Clients ---
+--- Round 640 of 1000: Training 10 Clients ---
+--- Round 641 of 1000: Training 10 Clients ---
+--- Round 642 of 1000: Training 10 Clients ---
+--- Round 643 of 1000: Training 10 Clients ---
+--- Round 644 of 1000: Training 10 Clients ---
+--- Round 645 of 1000: Training 10 Clients ---
+--- Round 646 of 1000: Training 10 Clients ---
+--- Round 647 of 1000: Training 10 Clients ---
+--- Round 648 of 1000: Training 10 Clients ---
+--- Round 649 of 1000: Training 10 Clients ---
+--- Round 650 of 1000: Training 10 Clients ---
+--- Round 651 of 1000: Training 10 Clients ---
+--- Round 652 of 1000: Training 10 Clients ---
+--- Round 653 of 1000: Training 10 Clients ---
+--- Round 654 of 1000: Training 10 Clients ---
+--- Round 655 of 1000: Training 10 Clients ---
+--- Round 656 of 1000: Training 10 Clients ---
+--- Round 657 of 1000: Training 10 Clients ---
+--- Round 658 of 1000: Training 10 Clients ---
+--- Round 659 of 1000: Training 10 Clients ---
+--- Round 660 of 1000: Training 10 Clients ---
+--- Round 661 of 1000: Training 10 Clients ---
+--- Round 662 of 1000: Training 10 Clients ---
+--- Round 663 of 1000: Training 10 Clients ---
+--- Round 664 of 1000: Training 10 Clients ---
+--- Round 665 of 1000: Training 10 Clients ---
+--- Round 666 of 1000: Training 10 Clients ---
+--- Round 667 of 1000: Training 10 Clients ---
+--- Round 668 of 1000: Training 10 Clients ---
+--- Round 669 of 1000: Training 10 Clients ---
+--- Round 670 of 1000: Training 10 Clients ---
+--- Round 671 of 1000: Training 10 Clients ---
+--- Round 672 of 1000: Training 10 Clients ---
+--- Round 673 of 1000: Training 10 Clients ---
+--- Round 674 of 1000: Training 10 Clients ---
+--- Round 675 of 1000: Training 10 Clients ---
+--- Round 676 of 1000: Training 10 Clients ---
+--- Round 677 of 1000: Training 10 Clients ---
+--- Round 678 of 1000: Training 10 Clients ---
+--- Round 679 of 1000: Training 10 Clients ---
+--- Round 680 of 1000: Training 10 Clients ---
+--- Round 681 of 1000: Training 10 Clients ---
+--- Round 682 of 1000: Training 10 Clients ---
+--- Round 683 of 1000: Training 10 Clients ---
+--- Round 684 of 1000: Training 10 Clients ---
+--- Round 685 of 1000: Training 10 Clients ---
+--- Round 686 of 1000: Training 10 Clients ---
+--- Round 687 of 1000: Training 10 Clients ---
+--- Round 688 of 1000: Training 10 Clients ---
+--- Round 689 of 1000: Training 10 Clients ---
+--- Round 690 of 1000: Training 10 Clients ---
+--- Round 691 of 1000: Training 10 Clients ---
+--- Round 692 of 1000: Training 10 Clients ---
+--- Round 693 of 1000: Training 10 Clients ---
+--- Round 694 of 1000: Training 10 Clients ---
+--- Round 695 of 1000: Training 10 Clients ---
+--- Round 696 of 1000: Training 10 Clients ---
+--- Round 697 of 1000: Training 10 Clients ---
+--- Round 698 of 1000: Training 10 Clients ---
+--- Round 699 of 1000: Training 10 Clients ---
+--- Round 700 of 1000: Training 10 Clients ---
+train_accuracy: 20.8284, 10th percentile: 0, 50th percentile: 3.2, 90th percentile 79.06
+train_loss: 2.078, 10th percentile: 0.994735, 50th percentile: 2.18988, 90th percentile 2.84771
+test_accuracy: 23.4223, 10th percentile: 23.4223, 50th percentile: 23.4223, 90th percentile 23.4223
+test_loss: 1.98228, 10th percentile: 1.98228, 50th percentile: 1.98228, 90th percentile 1.98228
+--- Round 701 of 1000: Training 10 Clients ---
+--- Round 702 of 1000: Training 10 Clients ---
+--- Round 703 of 1000: Training 10 Clients ---
+--- Round 704 of 1000: Training 10 Clients ---
+--- Round 705 of 1000: Training 10 Clients ---
+--- Round 706 of 1000: Training 10 Clients ---
+--- Round 707 of 1000: Training 10 Clients ---
+--- Round 708 of 1000: Training 10 Clients ---
+--- Round 709 of 1000: Training 10 Clients ---
+--- Round 710 of 1000: Training 10 Clients ---
+--- Round 711 of 1000: Training 10 Clients ---
+--- Round 712 of 1000: Training 10 Clients ---
+--- Round 713 of 1000: Training 10 Clients ---
+--- Round 714 of 1000: Training 10 Clients ---
+--- Round 715 of 1000: Training 10 Clients ---
+--- Round 716 of 1000: Training 10 Clients ---
+--- Round 717 of 1000: Training 10 Clients ---
+--- Round 718 of 1000: Training 10 Clients ---
+--- Round 719 of 1000: Training 10 Clients ---
+--- Round 720 of 1000: Training 10 Clients ---
+--- Round 721 of 1000: Training 10 Clients ---
+--- Round 722 of 1000: Training 10 Clients ---
+--- Round 723 of 1000: Training 10 Clients ---
+--- Round 724 of 1000: Training 10 Clients ---
+--- Round 725 of 1000: Training 10 Clients ---
+--- Round 726 of 1000: Training 10 Clients ---
+--- Round 727 of 1000: Training 10 Clients ---
+--- Round 728 of 1000: Training 10 Clients ---
+--- Round 729 of 1000: Training 10 Clients ---
+--- Round 730 of 1000: Training 10 Clients ---
+--- Round 731 of 1000: Training 10 Clients ---
+--- Round 732 of 1000: Training 10 Clients ---
+--- Round 733 of 1000: Training 10 Clients ---
+--- Round 734 of 1000: Training 10 Clients ---
+--- Round 735 of 1000: Training 10 Clients ---
+--- Round 736 of 1000: Training 10 Clients ---
+--- Round 737 of 1000: Training 10 Clients ---
+--- Round 738 of 1000: Training 10 Clients ---
+--- Round 739 of 1000: Training 10 Clients ---
+--- Round 740 of 1000: Training 10 Clients ---
+--- Round 741 of 1000: Training 10 Clients ---
+--- Round 742 of 1000: Training 10 Clients ---
+--- Round 743 of 1000: Training 10 Clients ---
+--- Round 744 of 1000: Training 10 Clients ---
+--- Round 745 of 1000: Training 10 Clients ---
+--- Round 746 of 1000: Training 10 Clients ---
+--- Round 747 of 1000: Training 10 Clients ---
+--- Round 748 of 1000: Training 10 Clients ---
+--- Round 749 of 1000: Training 10 Clients ---
+--- Round 750 of 1000: Training 10 Clients ---
+--- Round 751 of 1000: Training 10 Clients ---
+--- Round 752 of 1000: Training 10 Clients ---
+--- Round 753 of 1000: Training 10 Clients ---
+--- Round 754 of 1000: Training 10 Clients ---
+--- Round 755 of 1000: Training 10 Clients ---
+--- Round 756 of 1000: Training 10 Clients ---
+--- Round 757 of 1000: Training 10 Clients ---
+--- Round 758 of 1000: Training 10 Clients ---
+--- Round 759 of 1000: Training 10 Clients ---
+--- Round 760 of 1000: Training 10 Clients ---
+--- Round 761 of 1000: Training 10 Clients ---
+--- Round 762 of 1000: Training 10 Clients ---
+--- Round 763 of 1000: Training 10 Clients ---
+--- Round 764 of 1000: Training 10 Clients ---
+--- Round 765 of 1000: Training 10 Clients ---
+--- Round 766 of 1000: Training 10 Clients ---
+--- Round 767 of 1000: Training 10 Clients ---
+--- Round 768 of 1000: Training 10 Clients ---
+--- Round 769 of 1000: Training 10 Clients ---
+--- Round 770 of 1000: Training 10 Clients ---
+--- Round 771 of 1000: Training 10 Clients ---
+--- Round 772 of 1000: Training 10 Clients ---
+--- Round 773 of 1000: Training 10 Clients ---
+--- Round 774 of 1000: Training 10 Clients ---
+--- Round 775 of 1000: Training 10 Clients ---
+--- Round 776 of 1000: Training 10 Clients ---
+--- Round 777 of 1000: Training 10 Clients ---
+--- Round 778 of 1000: Training 10 Clients ---
+--- Round 779 of 1000: Training 10 Clients ---
+--- Round 780 of 1000: Training 10 Clients ---
+--- Round 781 of 1000: Training 10 Clients ---
+--- Round 782 of 1000: Training 10 Clients ---
+--- Round 783 of 1000: Training 10 Clients ---
+--- Round 784 of 1000: Training 10 Clients ---
+--- Round 785 of 1000: Training 10 Clients ---
+--- Round 786 of 1000: Training 10 Clients ---
+--- Round 787 of 1000: Training 10 Clients ---
+--- Round 788 of 1000: Training 10 Clients ---
+--- Round 789 of 1000: Training 10 Clients ---
+--- Round 790 of 1000: Training 10 Clients ---
+--- Round 791 of 1000: Training 10 Clients ---
+--- Round 792 of 1000: Training 10 Clients ---
+--- Round 793 of 1000: Training 10 Clients ---
+--- Round 794 of 1000: Training 10 Clients ---
+--- Round 795 of 1000: Training 10 Clients ---
+--- Round 796 of 1000: Training 10 Clients ---
+--- Round 797 of 1000: Training 10 Clients ---
+--- Round 798 of 1000: Training 10 Clients ---
+--- Round 799 of 1000: Training 10 Clients ---
+--- Round 800 of 1000: Training 10 Clients ---
+train_accuracy: 32.8527, 10th percentile: 0.4, 50th percentile: 29, 90th percentile 60.98
+train_loss: 1.85946, 10th percentile: 1.26796, 50th percentile: 1.73337, 90th percentile 2.85259
+test_accuracy: 37.1237, 10th percentile: 37.1237, 50th percentile: 37.1237, 90th percentile 37.1237
+test_loss: 1.76773, 10th percentile: 1.76773, 50th percentile: 1.76773, 90th percentile 1.76773
+--- Round 801 of 1000: Training 10 Clients ---
+--- Round 802 of 1000: Training 10 Clients ---
+--- Round 803 of 1000: Training 10 Clients ---
+--- Round 804 of 1000: Training 10 Clients ---
+--- Round 805 of 1000: Training 10 Clients ---
+--- Round 806 of 1000: Training 10 Clients ---
+--- Round 807 of 1000: Training 10 Clients ---
+--- Round 808 of 1000: Training 10 Clients ---
+--- Round 809 of 1000: Training 10 Clients ---
+--- Round 810 of 1000: Training 10 Clients ---
+--- Round 811 of 1000: Training 10 Clients ---
+--- Round 812 of 1000: Training 10 Clients ---
+--- Round 813 of 1000: Training 10 Clients ---
+--- Round 814 of 1000: Training 10 Clients ---
+--- Round 815 of 1000: Training 10 Clients ---
+--- Round 816 of 1000: Training 10 Clients ---
+--- Round 817 of 1000: Training 10 Clients ---
+--- Round 818 of 1000: Training 10 Clients ---
+--- Round 819 of 1000: Training 10 Clients ---
+--- Round 820 of 1000: Training 10 Clients ---
+--- Round 821 of 1000: Training 10 Clients ---
+--- Round 822 of 1000: Training 10 Clients ---
+--- Round 823 of 1000: Training 10 Clients ---
+--- Round 824 of 1000: Training 10 Clients ---
+--- Round 825 of 1000: Training 10 Clients ---
+--- Round 826 of 1000: Training 10 Clients ---
+--- Round 827 of 1000: Training 10 Clients ---
+--- Round 828 of 1000: Training 10 Clients ---
+--- Round 829 of 1000: Training 10 Clients ---
+--- Round 830 of 1000: Training 10 Clients ---
+--- Round 831 of 1000: Training 10 Clients ---
+--- Round 832 of 1000: Training 10 Clients ---
+--- Round 833 of 1000: Training 10 Clients ---
+--- Round 834 of 1000: Training 10 Clients ---
+--- Round 835 of 1000: Training 10 Clients ---
+--- Round 836 of 1000: Training 10 Clients ---
+--- Round 837 of 1000: Training 10 Clients ---
+--- Round 838 of 1000: Training 10 Clients ---
+--- Round 839 of 1000: Training 10 Clients ---
+--- Round 840 of 1000: Training 10 Clients ---
+--- Round 841 of 1000: Training 10 Clients ---
+--- Round 842 of 1000: Training 10 Clients ---
+--- Round 843 of 1000: Training 10 Clients ---
+--- Round 844 of 1000: Training 10 Clients ---
+--- Round 845 of 1000: Training 10 Clients ---
+--- Round 846 of 1000: Training 10 Clients ---
+--- Round 847 of 1000: Training 10 Clients ---
+--- Round 848 of 1000: Training 10 Clients ---
+--- Round 849 of 1000: Training 10 Clients ---
+--- Round 850 of 1000: Training 10 Clients ---
+--- Round 851 of 1000: Training 10 Clients ---
+--- Round 852 of 1000: Training 10 Clients ---
+--- Round 853 of 1000: Training 10 Clients ---
+--- Round 854 of 1000: Training 10 Clients ---
+--- Round 855 of 1000: Training 10 Clients ---
+--- Round 856 of 1000: Training 10 Clients ---
+--- Round 857 of 1000: Training 10 Clients ---
+--- Round 858 of 1000: Training 10 Clients ---
+--- Round 859 of 1000: Training 10 Clients ---
+--- Round 860 of 1000: Training 10 Clients ---
+--- Round 861 of 1000: Training 10 Clients ---
+--- Round 862 of 1000: Training 10 Clients ---
+--- Round 863 of 1000: Training 10 Clients ---
+--- Round 864 of 1000: Training 10 Clients ---
+--- Round 865 of 1000: Training 10 Clients ---
+--- Round 866 of 1000: Training 10 Clients ---
+--- Round 867 of 1000: Training 10 Clients ---
+--- Round 868 of 1000: Training 10 Clients ---
+--- Round 869 of 1000: Training 10 Clients ---
+--- Round 870 of 1000: Training 10 Clients ---
+--- Round 871 of 1000: Training 10 Clients ---
+--- Round 872 of 1000: Training 10 Clients ---
+--- Round 873 of 1000: Training 10 Clients ---
+--- Round 874 of 1000: Training 10 Clients ---
+--- Round 875 of 1000: Training 10 Clients ---
+--- Round 876 of 1000: Training 10 Clients ---
+--- Round 877 of 1000: Training 10 Clients ---
+--- Round 878 of 1000: Training 10 Clients ---
+--- Round 879 of 1000: Training 10 Clients ---
+--- Round 880 of 1000: Training 10 Clients ---
+--- Round 881 of 1000: Training 10 Clients ---
+--- Round 882 of 1000: Training 10 Clients ---
+--- Round 883 of 1000: Training 10 Clients ---
+--- Round 884 of 1000: Training 10 Clients ---
+--- Round 885 of 1000: Training 10 Clients ---
+--- Round 886 of 1000: Training 10 Clients ---
+--- Round 887 of 1000: Training 10 Clients ---
+--- Round 888 of 1000: Training 10 Clients ---
+--- Round 889 of 1000: Training 10 Clients ---
+--- Round 890 of 1000: Training 10 Clients ---
+--- Round 891 of 1000: Training 10 Clients ---
+--- Round 892 of 1000: Training 10 Clients ---
+--- Round 893 of 1000: Training 10 Clients ---
+--- Round 894 of 1000: Training 10 Clients ---
+--- Round 895 of 1000: Training 10 Clients ---
+--- Round 896 of 1000: Training 10 Clients ---
+--- Round 897 of 1000: Training 10 Clients ---
+--- Round 898 of 1000: Training 10 Clients ---
+--- Round 899 of 1000: Training 10 Clients ---
+--- Round 900 of 1000: Training 10 Clients ---
+train_accuracy: 28.1066, 10th percentile: 3.28, 50th percentile: 20.6, 90th percentile 67.22
+train_loss: 1.96003, 10th percentile: 1.17376, 50th percentile: 2.01342, 90th percentile 2.72576
+test_accuracy: 32.2932, 10th percentile: 32.2932, 50th percentile: 32.2932, 90th percentile 32.2932
+test_loss: 1.82026, 10th percentile: 1.82026, 50th percentile: 1.82026, 90th percentile 1.82026
+--- Round 901 of 1000: Training 10 Clients ---
+train_accuracy: 28.3946, 10th percentile: 0.98, 50th percentile: 14.7, 90th percentile 75.86
+train_loss: 1.85633, 10th percentile: 1.04553, 50th percentile: 1.91963, 90th percentile 2.42949
+test_accuracy: 31.6232, 10th percentile: 31.6232, 50th percentile: 31.6232, 90th percentile 31.6232
+test_loss: 1.76128, 10th percentile: 1.76128, 50th percentile: 1.76128, 90th percentile 1.76128
+--- Round 902 of 1000: Training 10 Clients ---
+train_accuracy: 31.9526, 10th percentile: 0.4, 50th percentile: 26.1, 90th percentile 70.98
+train_loss: 1.90944, 10th percentile: 0.991672, 50th percentile: 1.83483, 90th percentile 2.88243
+test_accuracy: 34.7735, 10th percentile: 34.7735, 50th percentile: 34.7735, 90th percentile 34.7735
+test_loss: 1.82317, 10th percentile: 1.82317, 50th percentile: 1.82317, 90th percentile 1.82317
+--- Round 903 of 1000: Training 10 Clients ---
+train_accuracy: 31.2626, 10th percentile: 2.22, 50th percentile: 20.5, 90th percentile 80.28
+train_loss: 1.84631, 10th percentile: 0.985289, 50th percentile: 1.7595, 90th percentile 2.57253
+test_accuracy: 35.2335, 10th percentile: 35.2335, 50th percentile: 35.2335, 90th percentile 35.2335
+test_loss: 1.73768, 10th percentile: 1.73768, 50th percentile: 1.73768, 90th percentile 1.73768
+--- Round 904 of 1000: Training 10 Clients ---
+train_accuracy: 28.6406, 10th percentile: 0.8, 50th percentile: 22.9, 90th percentile 59.74
+train_loss: 1.91523, 10th percentile: 1.36791, 50th percentile: 1.81608, 90th percentile 2.62941
+test_accuracy: 31.7732, 10th percentile: 31.7732, 50th percentile: 31.7732, 90th percentile 31.7732
+test_loss: 1.82164, 10th percentile: 1.82164, 50th percentile: 1.82164, 90th percentile 1.82164
+--- Round 905 of 1000: Training 10 Clients ---
+train_accuracy: 31.5386, 10th percentile: 4.96, 50th percentile: 26.4, 90th percentile 67.44
+train_loss: 1.82766, 10th percentile: 1.23355, 50th percentile: 1.91949, 90th percentile 2.34983
+test_accuracy: 34.4834, 10th percentile: 34.4834, 50th percentile: 34.4834, 90th percentile 34.4834
+test_loss: 1.76019, 10th percentile: 1.76019, 50th percentile: 1.76019, 90th percentile 1.76019
+--- Round 906 of 1000: Training 10 Clients ---
+train_accuracy: 26.6445, 10th percentile: 1.92, 50th percentile: 14.4, 90th percentile 65.68
+train_loss: 1.90873, 10th percentile: 1.34162, 50th percentile: 1.9719, 90th percentile 2.58243
+test_accuracy: 29.4429, 10th percentile: 29.4429, 50th percentile: 29.4429, 90th percentile 29.4429
+test_loss: 1.83023, 10th percentile: 1.83023, 50th percentile: 1.83023, 90th percentile 1.83023
+--- Round 907 of 1000: Training 10 Clients ---
+train_accuracy: 25.5985, 10th percentile: 0.6, 50th percentile: 14.3, 90th percentile 48.62
+train_loss: 1.97336, 10th percentile: 1.47345, 50th percentile: 2.02058, 90th percentile 2.72522
+test_accuracy: 31.4031, 10th percentile: 31.4031, 50th percentile: 31.4031, 90th percentile 31.4031
+test_loss: 1.81534, 10th percentile: 1.81534, 50th percentile: 1.81534, 90th percentile 1.81534
+--- Round 908 of 1000: Training 10 Clients ---
+train_accuracy: 25.4885, 10th percentile: 0, 50th percentile: 10.8108, 90th percentile 69.08
+train_loss: 2.18336, 10th percentile: 0.988784, 50th percentile: 2.31513, 90th percentile 3.32301
+test_accuracy: 27.9628, 10th percentile: 27.9628, 50th percentile: 27.9628, 90th percentile 27.9628
+test_loss: 2.04153, 10th percentile: 2.04153, 50th percentile: 2.04153, 90th percentile 2.04153
+--- Round 909 of 1000: Training 10 Clients ---
+train_accuracy: 32.6087, 10th percentile: 0.18, 50th percentile: 36.5, 90th percentile 61.94
+train_loss: 1.8157, 10th percentile: 1.3778, 50th percentile: 1.6926, 90th percentile 2.29883
+test_accuracy: 36.0136, 10th percentile: 36.0136, 50th percentile: 36.0136, 90th percentile 36.0136
+test_loss: 1.74328, 10th percentile: 1.74328, 50th percentile: 1.74328, 90th percentile 1.74328
+--- Round 910 of 1000: Training 10 Clients ---
+train_accuracy: 25.8745, 10th percentile: 4.76, 50th percentile: 16.9, 90th percentile 58.38
+train_loss: 2.00562, 10th percentile: 1.27311, 50th percentile: 2.17147, 90th percentile 2.58132
+test_accuracy: 30.283, 10th percentile: 30.283, 50th percentile: 30.283, 90th percentile 30.283
+test_loss: 1.85862, 10th percentile: 1.85862, 50th percentile: 1.85862, 90th percentile 1.85862
+--- Round 911 of 1000: Training 10 Clients ---
+train_accuracy: 27.7626, 10th percentile: 4.16, 50th percentile: 17.7, 90th percentile 68.02
+train_loss: 2.00732, 10th percentile: 1.184, 50th percentile: 2.28109, 90th percentile 2.63896
+test_accuracy: 31.1831, 10th percentile: 31.1831, 50th percentile: 31.1831, 90th percentile 31.1831
+test_loss: 1.86322, 10th percentile: 1.86322, 50th percentile: 1.86322, 90th percentile 1.86322
+--- Round 912 of 1000: Training 10 Clients ---
+train_accuracy: 33.8287, 10th percentile: 10.64, 50th percentile: 30.3, 90th percentile 61.44
+train_loss: 1.77569, 10th percentile: 1.34802, 50th percentile: 1.8042, 90th percentile 2.24988
+test_accuracy: 35.8436, 10th percentile: 35.8436, 50th percentile: 35.8436, 90th percentile 35.8436
+test_loss: 1.72417, 10th percentile: 1.72417, 50th percentile: 1.72417, 90th percentile 1.72417
+--- Round 913 of 1000: Training 10 Clients ---
+train_accuracy: 22.2964, 10th percentile: 0.6, 50th percentile: 12.1, 90th percentile 61.2
+train_loss: 2.32612, 10th percentile: 0.98751, 50th percentile: 2.54363, 90th percentile 3.31579
+test_accuracy: 25.3825, 10th percentile: 25.3825, 50th percentile: 25.3825, 90th percentile 25.3825
+test_loss: 2.15304, 10th percentile: 2.15304, 50th percentile: 2.15304, 90th percentile 2.15304
+--- Round 914 of 1000: Training 10 Clients ---
+train_accuracy: 30.5226, 10th percentile: 2.6, 50th percentile: 15.7, 90th percentile 73.7
+train_loss: 1.84819, 10th percentile: 1.08025, 50th percentile: 1.79974, 90th percentile 2.64609
+test_accuracy: 33.8934, 10th percentile: 33.8934, 50th percentile: 33.8934, 90th percentile 33.8934
+test_loss: 1.77861, 10th percentile: 1.77861, 50th percentile: 1.77861, 90th percentile 1.77861
+--- Round 915 of 1000: Training 10 Clients ---
+train_accuracy: 22.6445, 10th percentile: 0.38, 50th percentile: 6, 90th percentile 68.34
+train_loss: 2.08824, 10th percentile: 1.13989, 50th percentile: 2.27723, 90th percentile 2.88428
+test_accuracy: 26.1726, 10th percentile: 26.1726, 50th percentile: 26.1726, 90th percentile 26.1726
+test_loss: 1.9183, 10th percentile: 1.9183, 50th percentile: 1.9183, 90th percentile 1.9183
+--- Round 916 of 1000: Training 10 Clients ---
+train_accuracy: 21.3124, 10th percentile: 0, 50th percentile: 4.1, 90th percentile 69.88
+train_loss: 2.14807, 10th percentile: 1.08724, 50th percentile: 2.15637, 90th percentile 2.91261
+test_accuracy: 24.9225, 10th percentile: 24.9225, 50th percentile: 24.9225, 90th percentile 24.9225
+test_loss: 1.9501, 10th percentile: 1.9501, 50th percentile: 1.9501, 90th percentile 1.9501
+--- Round 917 of 1000: Training 10 Clients ---
+train_accuracy: 23.5705, 10th percentile: 1.26, 50th percentile: 10.6, 90th percentile 49.54
+train_loss: 2.09948, 10th percentile: 1.43321, 50th percentile: 2.11389, 90th percentile 2.92818
+test_accuracy: 25.2525, 10th percentile: 25.2525, 50th percentile: 25.2525, 90th percentile 25.2525
+test_loss: 2.02047, 10th percentile: 2.02047, 50th percentile: 2.02047, 90th percentile 2.02047
+--- Round 918 of 1000: Training 10 Clients ---
+train_accuracy: 33.7267, 10th percentile: 9.18, 50th percentile: 27.4, 90th percentile 66.86
+train_loss: 1.76728, 10th percentile: 1.32663, 50th percentile: 1.74875, 90th percentile 2.23391
+test_accuracy: 37.6738, 10th percentile: 37.6738, 50th percentile: 37.6738, 90th percentile 37.6738
+test_loss: 1.69301, 10th percentile: 1.69301, 50th percentile: 1.69301, 90th percentile 1.69301
+--- Round 919 of 1000: Training 10 Clients ---
+train_accuracy: 30.6606, 10th percentile: 6, 50th percentile: 24.7, 90th percentile 57.04
+train_loss: 1.83123, 10th percentile: 1.58336, 50th percentile: 1.84933, 90th percentile 2.26725
+test_accuracy: 34.0834, 10th percentile: 34.0834, 50th percentile: 34.0834, 90th percentile 34.0834
+test_loss: 1.75987, 10th percentile: 1.75987, 50th percentile: 1.75987, 90th percentile 1.75987
+--- Round 920 of 1000: Training 10 Clients ---
+train_accuracy: 31.8106, 10th percentile: 9.36, 50th percentile: 26.8, 90th percentile 65.58
+train_loss: 1.8351, 10th percentile: 1.14098, 50th percentile: 1.84343, 90th percentile 2.55289
+test_accuracy: 35.9736, 10th percentile: 35.9736, 50th percentile: 35.9736, 90th percentile 35.9736
+test_loss: 1.73518, 10th percentile: 1.73518, 50th percentile: 1.73518, 90th percentile 1.73518
+--- Round 921 of 1000: Training 10 Clients ---
+train_accuracy: 19.5804, 10th percentile: 0, 50th percentile: 4.2, 90th percentile 48.54
+train_loss: 2.35051, 10th percentile: 1.35355, 50th percentile: 2.23343, 90th percentile 3.63768
+test_accuracy: 23.5824, 10th percentile: 23.5824, 50th percentile: 23.5824, 90th percentile 23.5824
+test_loss: 2.1608, 10th percentile: 2.1608, 50th percentile: 2.1608, 90th percentile 2.1608
+--- Round 922 of 1000: Training 10 Clients ---
+train_accuracy: 27.0985, 10th percentile: 0, 50th percentile: 17.3, 90th percentile 61.5
+train_loss: 2.11136, 10th percentile: 0.89142, 50th percentile: 2.12463, 90th percentile 3.20913
+test_accuracy: 29.4629, 10th percentile: 29.4629, 50th percentile: 29.4629, 90th percentile 29.4629
+test_loss: 2.04154, 10th percentile: 2.04154, 50th percentile: 2.04154, 90th percentile 2.04154
+--- Round 923 of 1000: Training 10 Clients ---
+train_accuracy: 26.5525, 10th percentile: 1.6, 50th percentile: 14.7, 90th percentile 63.08
+train_loss: 2.00538, 10th percentile: 1.13158, 50th percentile: 1.93421, 90th percentile 2.6872
+test_accuracy: 31.6632, 10th percentile: 31.6632, 50th percentile: 31.6632, 90th percentile 31.6632
+test_loss: 1.83583, 10th percentile: 1.83583, 50th percentile: 1.83583, 90th percentile 1.83583
+--- Round 924 of 1000: Training 10 Clients ---
+train_accuracy: 23.4045, 10th percentile: 0, 50th percentile: 10, 90th percentile 56.66
+train_loss: 2.09802, 10th percentile: 1.39493, 50th percentile: 2.05744, 90th percentile 3.08864
+test_accuracy: 27.6728, 10th percentile: 27.6728, 50th percentile: 27.6728, 90th percentile 27.6728
+test_loss: 1.92757, 10th percentile: 1.92757, 50th percentile: 1.92757, 90th percentile 1.92757
+--- Round 925 of 1000: Training 10 Clients ---
+train_accuracy: 19.3824, 10th percentile: 0, 50th percentile: 5.6, 90th percentile 63.96
+train_loss: 2.35331, 10th percentile: 1.1965, 50th percentile: 2.37296, 90th percentile 3.43759
+test_accuracy: 22.5323, 10th percentile: 22.5323, 50th percentile: 22.5323, 90th percentile 22.5323
+test_loss: 2.12974, 10th percentile: 2.12974, 50th percentile: 2.12974, 90th percentile 2.12974
+--- Round 926 of 1000: Training 10 Clients ---
+train_accuracy: 30.7406, 10th percentile: 0, 50th percentile: 13.8, 90th percentile 72.82
+train_loss: 1.88631, 10th percentile: 1.09106, 50th percentile: 2.00735, 90th percentile 2.684
+test_accuracy: 34.7635, 10th percentile: 34.7635, 50th percentile: 34.7635, 90th percentile 34.7635
+test_loss: 1.77487, 10th percentile: 1.77487, 50th percentile: 1.77487, 90th percentile 1.77487
+--- Round 927 of 1000: Training 10 Clients ---
+train_accuracy: 29.9326, 10th percentile: 1, 50th percentile: 21.6, 90th percentile 69.62
+train_loss: 1.88476, 10th percentile: 0.960261, 50th percentile: 2.03028, 90th percentile 2.57807
+test_accuracy: 32.7233, 10th percentile: 32.7233, 50th percentile: 32.7233, 90th percentile 32.7233
+test_loss: 1.82607, 10th percentile: 1.82607, 50th percentile: 1.82607, 90th percentile 1.82607
+--- Round 928 of 1000: Training 10 Clients ---
+train_accuracy: 33.7667, 10th percentile: 4.52, 50th percentile: 32.2, 90th percentile 60.76
+train_loss: 1.80605, 10th percentile: 1.26816, 50th percentile: 1.74524, 90th percentile 2.82006
+test_accuracy: 37.4037, 10th percentile: 37.4037, 50th percentile: 37.4037, 90th percentile 37.4037
+test_loss: 1.71325, 10th percentile: 1.71325, 50th percentile: 1.71325, 90th percentile 1.71325
+--- Round 929 of 1000: Training 10 Clients ---
+train_accuracy: 33.1347, 10th percentile: 2.36, 50th percentile: 35.3, 90th percentile 55.28
+train_loss: 1.80583, 10th percentile: 1.30888, 50th percentile: 1.69283, 90th percentile 2.5935
+test_accuracy: 36.9737, 10th percentile: 36.9737, 50th percentile: 36.9737, 90th percentile 36.9737
+test_loss: 1.70297, 10th percentile: 1.70297, 50th percentile: 1.70297, 90th percentile 1.70297
+--- Round 930 of 1000: Training 10 Clients ---
+train_accuracy: 24.4505, 10th percentile: 2.72, 50th percentile: 16.3, 90th percentile 56.86
+train_loss: 2.12941, 10th percentile: 1.44517, 50th percentile: 2.28008, 90th percentile 2.89365
+test_accuracy: 27.6428, 10th percentile: 27.6428, 50th percentile: 27.6428, 90th percentile 27.6428
+test_loss: 2.04204, 10th percentile: 2.04204, 50th percentile: 2.04204, 90th percentile 2.04204
+--- Round 931 of 1000: Training 10 Clients ---
+train_accuracy: 30.1406, 10th percentile: 2, 50th percentile: 22.4, 90th percentile 81.28
+train_loss: 1.85171, 10th percentile: 0.999393, 50th percentile: 1.9841, 90th percentile 2.39107
+test_accuracy: 33.6034, 10th percentile: 33.6034, 50th percentile: 33.6034, 90th percentile 33.6034
+test_loss: 1.73832, 10th percentile: 1.73832, 50th percentile: 1.73832, 90th percentile 1.73832
+--- Round 932 of 1000: Training 10 Clients ---
+train_accuracy: 34.0227, 10th percentile: 9.4, 50th percentile: 29.6, 90th percentile 73.7
+train_loss: 1.74605, 10th percentile: 1.17396, 50th percentile: 1.84368, 90th percentile 2.09217
+test_accuracy: 39.0339, 10th percentile: 39.0339, 50th percentile: 39.0339, 90th percentile 39.0339
+test_loss: 1.64836, 10th percentile: 1.64836, 50th percentile: 1.64836, 90th percentile 1.64836
+--- Round 933 of 1000: Training 10 Clients ---
+train_accuracy: 28.0606, 10th percentile: 0, 50th percentile: 7.3, 90th percentile 70.14
+train_loss: 1.99422, 10th percentile: 1.12774, 50th percentile: 2.22758, 90th percentile 2.83015
+test_accuracy: 29.673, 10th percentile: 29.673, 50th percentile: 29.673, 90th percentile 29.673
+test_loss: 1.88704, 10th percentile: 1.88704, 50th percentile: 1.88704, 90th percentile 1.88704
+--- Round 934 of 1000: Training 10 Clients ---
+train_accuracy: 19.0364, 10th percentile: 0, 50th percentile: 4.3, 90th percentile 64.82
+train_loss: 2.38056, 10th percentile: 1.2148, 50th percentile: 2.54788, 90th percentile 3.39203
+test_accuracy: 20.8021, 10th percentile: 20.8021, 50th percentile: 20.8021, 90th percentile 20.8021
+test_loss: 2.2823, 10th percentile: 2.2823, 50th percentile: 2.2823, 90th percentile 2.2823
+--- Round 935 of 1000: Training 10 Clients ---
+train_accuracy: 32.4686, 10th percentile: 0.98, 50th percentile: 24.3, 90th percentile 75.8
+train_loss: 1.82555, 10th percentile: 1.0167, 50th percentile: 1.87028, 90th percentile 2.70491
+test_accuracy: 35.7336, 10th percentile: 35.7336, 50th percentile: 35.7336, 90th percentile 35.7336
+test_loss: 1.75944, 10th percentile: 1.75944, 50th percentile: 1.75944, 90th percentile 1.75944
+--- Round 936 of 1000: Training 10 Clients ---
+train_accuracy: 33.9547, 10th percentile: 0.18, 50th percentile: 37.9, 90th percentile 59.08
+train_loss: 1.83138, 10th percentile: 1.36237, 50th percentile: 1.58426, 90th percentile 2.77169
+test_accuracy: 37.7638, 10th percentile: 37.7638, 50th percentile: 37.7638, 90th percentile 37.7638
+test_loss: 1.73122, 10th percentile: 1.73122, 50th percentile: 1.73122, 90th percentile 1.73122
+--- Round 937 of 1000: Training 10 Clients ---
+train_accuracy: 27.2625, 10th percentile: 0, 50th percentile: 12, 90th percentile 82.3
+train_loss: 2.03231, 10th percentile: 0.781477, 50th percentile: 2.11942, 90th percentile 3.15887
+test_accuracy: 28.7329, 10th percentile: 28.7329, 50th percentile: 28.7329, 90th percentile 28.7329
+test_loss: 1.99766, 10th percentile: 1.99766, 50th percentile: 1.99766, 90th percentile 1.99766
+--- Round 938 of 1000: Training 10 Clients ---
+train_accuracy: 35.3687, 10th percentile: 1.62, 50th percentile: 40.1, 90th percentile 57.16
+train_loss: 1.78888, 10th percentile: 1.36602, 50th percentile: 1.64514, 90th percentile 2.75365
+test_accuracy: 38.4238, 10th percentile: 38.4238, 50th percentile: 38.4238, 90th percentile 38.4238
+test_loss: 1.72168, 10th percentile: 1.72168, 50th percentile: 1.72168, 90th percentile 1.72168
+--- Round 939 of 1000: Training 10 Clients ---
+train_accuracy: 27.8886, 10th percentile: 0.18, 50th percentile: 7.9, 90th percentile 80.72
+train_loss: 2.03754, 10th percentile: 0.866618, 50th percentile: 1.97897, 90th percentile 2.99802
+test_accuracy: 30.8131, 10th percentile: 30.8131, 50th percentile: 30.8131, 90th percentile 30.8131
+test_loss: 1.89033, 10th percentile: 1.89033, 50th percentile: 1.89033, 90th percentile 1.89033
+--- Round 940 of 1000: Training 10 Clients ---
+train_accuracy: 25.4165, 10th percentile: 1.4, 50th percentile: 10.9, 90th percentile 75.66
+train_loss: 1.98454, 10th percentile: 0.968279, 50th percentile: 1.90012, 90th percentile 2.92397
+test_accuracy: 29.643, 10th percentile: 29.643, 50th percentile: 29.643, 90th percentile 29.643
+test_loss: 1.8633, 10th percentile: 1.8633, 50th percentile: 1.8633, 90th percentile 1.8633
+--- Round 941 of 1000: Training 10 Clients ---
+train_accuracy: 33.8487, 10th percentile: 1.2, 50th percentile: 26.2, 90th percentile 72.74
+train_loss: 1.79789, 10th percentile: 1.1486, 50th percentile: 1.72955, 90th percentile 2.79523
+test_accuracy: 35.7136, 10th percentile: 35.7136, 50th percentile: 35.7136, 90th percentile 35.7136
+test_loss: 1.754, 10th percentile: 1.754, 50th percentile: 1.754, 90th percentile 1.754
+--- Round 942 of 1000: Training 10 Clients ---
+train_accuracy: 34.4047, 10th percentile: 5.9, 50th percentile: 40.5, 90th percentile 60.5
+train_loss: 1.76572, 10th percentile: 1.3287, 50th percentile: 1.61274, 90th percentile 2.38762
+test_accuracy: 37.4937, 10th percentile: 37.4937, 50th percentile: 37.4937, 90th percentile 37.4937
+test_loss: 1.69045, 10th percentile: 1.69045, 50th percentile: 1.69045, 90th percentile 1.69045
+--- Round 943 of 1000: Training 10 Clients ---
+train_accuracy: 23.7425, 10th percentile: 1.98, 50th percentile: 8.8, 90th percentile 76.3
+train_loss: 2.09251, 10th percentile: 0.949047, 50th percentile: 2.4366, 90th percentile 2.8925
+test_accuracy: 26.1326, 10th percentile: 26.1326, 50th percentile: 26.1326, 90th percentile 26.1326
+test_loss: 2.00174, 10th percentile: 2.00174, 50th percentile: 2.00174, 90th percentile 2.00174
+--- Round 944 of 1000: Training 10 Clients ---
+train_accuracy: 28.8606, 10th percentile: 2, 50th percentile: 15.6, 90th percentile 78.7
+train_loss: 1.93344, 10th percentile: 0.894969, 50th percentile: 2.20122, 90th percentile 2.55808
+test_accuracy: 31.1831, 10th percentile: 31.1831, 50th percentile: 31.1831, 90th percentile 31.1831
+test_loss: 1.86875, 10th percentile: 1.86875, 50th percentile: 1.86875, 90th percentile 1.86875
+--- Round 945 of 1000: Training 10 Clients ---
+train_accuracy: 30.3706, 10th percentile: 0.58, 50th percentile: 24.1, 90th percentile 62.32
+train_loss: 1.8432, 10th percentile: 1.17905, 50th percentile: 1.84664, 90th percentile 2.35338
+test_accuracy: 35.6536, 10th percentile: 35.6536, 50th percentile: 35.6536, 90th percentile 35.6536
+test_loss: 1.71553, 10th percentile: 1.71553, 50th percentile: 1.71553, 90th percentile 1.71553
+--- Round 946 of 1000: Training 10 Clients ---
+train_accuracy: 31.5046, 10th percentile: 0.18, 50th percentile: 16, 90th percentile 66.96
+train_loss: 1.86439, 10th percentile: 1.03989, 50th percentile: 2.04459, 90th percentile 2.5347
+test_accuracy: 34.3234, 10th percentile: 34.3234, 50th percentile: 34.3234, 90th percentile 34.3234
+test_loss: 1.78103, 10th percentile: 1.78103, 50th percentile: 1.78103, 90th percentile 1.78103
+--- Round 947 of 1000: Training 10 Clients ---
+train_accuracy: 30.7726, 10th percentile: 5.58, 50th percentile: 20.7, 90th percentile 74.02
+train_loss: 1.80234, 10th percentile: 1.20632, 50th percentile: 1.89858, 90th percentile 2.36214
+test_accuracy: 34.9535, 10th percentile: 34.9535, 50th percentile: 34.9535, 90th percentile 34.9535
+test_loss: 1.73277, 10th percentile: 1.73277, 50th percentile: 1.73277, 90th percentile 1.73277
+--- Round 948 of 1000: Training 10 Clients ---
+train_accuracy: 29.3806, 10th percentile: 0.6, 50th percentile: 24, 90th percentile 67.22
+train_loss: 1.93826, 10th percentile: 1.15873, 50th percentile: 1.89817, 90th percentile 2.78061
+test_accuracy: 32.1932, 10th percentile: 32.1932, 50th percentile: 32.1932, 90th percentile 32.1932
+test_loss: 1.8188, 10th percentile: 1.8188, 50th percentile: 1.8188, 90th percentile 1.8188
+--- Round 949 of 1000: Training 10 Clients ---
+train_accuracy: 32.9567, 10th percentile: 3.82, 50th percentile: 32.7, 90th percentile 54.28
+train_loss: 1.87131, 10th percentile: 1.25827, 50th percentile: 1.8456, 90th percentile 2.7752
+test_accuracy: 35.2435, 10th percentile: 35.2435, 50th percentile: 35.2435, 90th percentile 35.2435
+test_loss: 1.76393, 10th percentile: 1.76393, 50th percentile: 1.76393, 90th percentile 1.76393
+--- Round 950 of 1000: Training 10 Clients ---
+train_accuracy: 35.8687, 10th percentile: 15.14, 50th percentile: 29.7, 90th percentile 69.88
+train_loss: 1.76714, 10th percentile: 1.09828, 50th percentile: 1.80963, 90th percentile 2.10094
+test_accuracy: 38.3238, 10th percentile: 38.3238, 50th percentile: 38.3238, 90th percentile 38.3238
+test_loss: 1.70041, 10th percentile: 1.70041, 50th percentile: 1.70041, 90th percentile 1.70041
+--- Round 951 of 1000: Training 10 Clients ---
+train_accuracy: 27.4745, 10th percentile: 0, 50th percentile: 15.2, 90th percentile 66.14
+train_loss: 1.96721, 10th percentile: 1.15266, 50th percentile: 1.96548, 90th percentile 2.66744
+test_accuracy: 31.9132, 10th percentile: 31.9132, 50th percentile: 31.9132, 90th percentile 31.9132
+test_loss: 1.82009, 10th percentile: 1.82009, 50th percentile: 1.82009, 90th percentile 1.82009
+--- Round 952 of 1000: Training 10 Clients ---
+train_accuracy: 33.0687, 10th percentile: 0, 50th percentile: 35.2, 90th percentile 63.66
+train_loss: 1.80889, 10th percentile: 1.17325, 50th percentile: 1.75206, 90th percentile 2.59704
+test_accuracy: 37.9538, 10th percentile: 37.9538, 50th percentile: 37.9538, 90th percentile 37.9538
+test_loss: 1.70215, 10th percentile: 1.70215, 50th percentile: 1.70215, 90th percentile 1.70215
+--- Round 953 of 1000: Training 10 Clients ---
+train_accuracy: 24.1505, 10th percentile: 0, 50th percentile: 6.5, 90th percentile 76.3
+train_loss: 2.03623, 10th percentile: 0.967427, 50th percentile: 2.20536, 90th percentile 3.04317
+test_accuracy: 26.6527, 10th percentile: 26.6527, 50th percentile: 26.6527, 90th percentile 26.6527
+test_loss: 1.9168, 10th percentile: 1.9168, 50th percentile: 1.9168, 90th percentile 1.9168
+--- Round 954 of 1000: Training 10 Clients ---
+train_accuracy: 28.5326, 10th percentile: 2.16, 50th percentile: 19.8, 90th percentile 63.4
+train_loss: 1.87586, 10th percentile: 1.12941, 50th percentile: 1.85824, 90th percentile 2.33867
+test_accuracy: 32.5733, 10th percentile: 32.5733, 50th percentile: 32.5733, 90th percentile 32.5733
+test_loss: 1.77883, 10th percentile: 1.77883, 50th percentile: 1.77883, 90th percentile 1.77883
+--- Round 955 of 1000: Training 10 Clients ---
+train_accuracy: 31.5926, 10th percentile: 4.38, 50th percentile: 16.9, 90th percentile 79.18
+train_loss: 1.80304, 10th percentile: 1.04792, 50th percentile: 1.99608, 90th percentile 2.38084
+test_accuracy: 34.6335, 10th percentile: 34.6335, 50th percentile: 34.6335, 90th percentile 34.6335
+test_loss: 1.70794, 10th percentile: 1.70794, 50th percentile: 1.70794, 90th percentile 1.70794
+--- Round 956 of 1000: Training 10 Clients ---
+train_accuracy: 31.4626, 10th percentile: 0.4, 50th percentile: 19.8, 90th percentile 76.84
+train_loss: 1.83916, 10th percentile: 0.99501, 50th percentile: 1.86287, 90th percentile 2.77301
+test_accuracy: 34.0934, 10th percentile: 34.0934, 50th percentile: 34.0934, 90th percentile 34.0934
+test_loss: 1.76711, 10th percentile: 1.76711, 50th percentile: 1.76711, 90th percentile 1.76711
+--- Round 957 of 1000: Training 10 Clients ---
+train_accuracy: 32.9087, 10th percentile: 0, 50th percentile: 32.5, 90th percentile 68.12
+train_loss: 1.81956, 10th percentile: 1.10947, 50th percentile: 1.67716, 90th percentile 2.58705
+test_accuracy: 36.6537, 10th percentile: 36.6537, 50th percentile: 36.6537, 90th percentile 36.6537
+test_loss: 1.74111, 10th percentile: 1.74111, 50th percentile: 1.74111, 90th percentile 1.74111
+--- Round 958 of 1000: Training 10 Clients ---
+train_accuracy: 34.0047, 10th percentile: 19.66, 50th percentile: 32.6, 90th percentile 48.88
+train_loss: 1.83025, 10th percentile: 1.13422, 50th percentile: 1.86088, 90th percentile 2.17447
+test_accuracy: 36.0736, 10th percentile: 36.0736, 50th percentile: 36.0736, 90th percentile 36.0736
+test_loss: 1.78872, 10th percentile: 1.78872, 50th percentile: 1.78872, 90th percentile 1.78872
+--- Round 959 of 1000: Training 10 Clients ---
+train_accuracy: 26.2505, 10th percentile: 0.38, 50th percentile: 9.6, 90th percentile 81.64
+train_loss: 2.03543, 10th percentile: 0.817925, 50th percentile: 2.1938, 90th percentile 2.9159
+test_accuracy: 29.743, 10th percentile: 29.743, 50th percentile: 29.743, 90th percentile 29.743
+test_loss: 1.9024, 10th percentile: 1.9024, 50th percentile: 1.9024, 90th percentile 1.9024
+--- Round 960 of 1000: Training 10 Clients ---
+train_accuracy: 29.3826, 10th percentile: 0, 50th percentile: 21.5, 90th percentile 70.12
+train_loss: 2.04648, 10th percentile: 1.03233, 50th percentile: 2.02826, 90th percentile 3.15562
+test_accuracy: 31.7232, 10th percentile: 31.7232, 50th percentile: 31.7232, 90th percentile 31.7232
+test_loss: 1.89941, 10th percentile: 1.89941, 50th percentile: 1.89941, 90th percentile 1.89941
+--- Round 961 of 1000: Training 10 Clients ---
+train_accuracy: 31.2746, 10th percentile: 1.9, 50th percentile: 26.4, 90th percentile 78.28
+train_loss: 1.84829, 10th percentile: 1.05327, 50th percentile: 1.85031, 90th percentile 2.50161
+test_accuracy: 33.8134, 10th percentile: 33.8134, 50th percentile: 33.8134, 90th percentile 33.8134
+test_loss: 1.75797, 10th percentile: 1.75797, 50th percentile: 1.75797, 90th percentile 1.75797
+--- Round 962 of 1000: Training 10 Clients ---
+train_accuracy: 34.6807, 10th percentile: 1.48, 50th percentile: 36.2, 90th percentile 65.1
+train_loss: 1.7535, 10th percentile: 1.27051, 50th percentile: 1.71818, 90th percentile 2.46743
+test_accuracy: 38.7339, 10th percentile: 38.7339, 50th percentile: 38.7339, 90th percentile 38.7339
+test_loss: 1.66785, 10th percentile: 1.66785, 50th percentile: 1.66785, 90th percentile 1.66785
+--- Round 963 of 1000: Training 10 Clients ---
+train_accuracy: 31.3346, 10th percentile: 0, 50th percentile: 25.5, 90th percentile 65.94
+train_loss: 1.85383, 10th percentile: 1.17812, 50th percentile: 1.86582, 90th percentile 2.50524
+test_accuracy: 35.2835, 10th percentile: 35.2835, 50th percentile: 35.2835, 90th percentile 35.2835
+test_loss: 1.74363, 10th percentile: 1.74363, 50th percentile: 1.74363, 90th percentile 1.74363
+--- Round 964 of 1000: Training 10 Clients ---
+train_accuracy: 29.1426, 10th percentile: 0.18, 50th percentile: 16.2, 90th percentile 75
+train_loss: 1.94676, 10th percentile: 1.0757, 50th percentile: 2.11789, 90th percentile 2.65073
+test_accuracy: 30.9631, 10th percentile: 30.9631, 50th percentile: 30.9631, 90th percentile 30.9631
+test_loss: 1.88901, 10th percentile: 1.88901, 50th percentile: 1.88901, 90th percentile 1.88901
+--- Round 965 of 1000: Training 10 Clients ---
+train_accuracy: 21.9604, 10th percentile: 0, 50th percentile: 12.9, 90th percentile 69.98
+train_loss: 2.20249, 10th percentile: 0.993437, 50th percentile: 2.21767, 90th percentile 3.40553
+test_accuracy: 24.4824, 10th percentile: 24.4824, 50th percentile: 24.4824, 90th percentile 24.4824
+test_loss: 2.03113, 10th percentile: 2.03113, 50th percentile: 2.03113, 90th percentile 2.03113
+--- Round 966 of 1000: Training 10 Clients ---
+train_accuracy: 30.2626, 10th percentile: 0, 50th percentile: 29, 90th percentile 69.22
+train_loss: 1.91385, 10th percentile: 1.2141, 50th percentile: 1.82133, 90th percentile 3.00074
+test_accuracy: 33.0933, 10th percentile: 33.0933, 50th percentile: 33.0933, 90th percentile 33.0933
+test_loss: 1.83837, 10th percentile: 1.83837, 50th percentile: 1.83837, 90th percentile 1.83837
+--- Round 967 of 1000: Training 10 Clients ---
+train_accuracy: 29.6726, 10th percentile: 0.38, 50th percentile: 27.4, 90th percentile 54.6
+train_loss: 1.95687, 10th percentile: 1.09315, 50th percentile: 1.89797, 90th percentile 2.67037
+test_accuracy: 31.3731, 10th percentile: 31.3731, 50th percentile: 31.3731, 90th percentile 31.3731
+test_loss: 1.89443, 10th percentile: 1.89443, 50th percentile: 1.89443, 90th percentile 1.89443
+--- Round 968 of 1000: Training 10 Clients ---
+train_accuracy: 33.8667, 10th percentile: 0.2, 50th percentile: 40.1, 90th percentile 61.06
+train_loss: 1.81319, 10th percentile: 1.22549, 50th percentile: 1.52382, 90th percentile 2.75398
+test_accuracy: 36.4536, 10th percentile: 36.4536, 50th percentile: 36.4536, 90th percentile 36.4536
+test_loss: 1.73765, 10th percentile: 1.73765, 50th percentile: 1.73765, 90th percentile 1.73765
+--- Round 969 of 1000: Training 10 Clients ---
+train_accuracy: 34.6407, 10th percentile: 13, 50th percentile: 29.7, 90th percentile 60.28
+train_loss: 1.74991, 10th percentile: 1.33864, 50th percentile: 1.6711, 90th percentile 2.27121
+test_accuracy: 38.6139, 10th percentile: 38.6139, 50th percentile: 38.6139, 90th percentile 38.6139
+test_loss: 1.65656, 10th percentile: 1.65656, 50th percentile: 1.65656, 90th percentile 1.65656
+--- Round 970 of 1000: Training 10 Clients ---
+train_accuracy: 29.9666, 10th percentile: 0.18, 50th percentile: 23, 90th percentile 62.3
+train_loss: 1.91584, 10th percentile: 1.28377, 50th percentile: 1.73279, 90th percentile 2.85921
+test_accuracy: 31.9832, 10th percentile: 31.9832, 50th percentile: 31.9832, 90th percentile 31.9832
+test_loss: 1.83918, 10th percentile: 1.83918, 50th percentile: 1.83918, 90th percentile 1.83918
+--- Round 971 of 1000: Training 10 Clients ---
+train_accuracy: 29.9726, 10th percentile: 0, 50th percentile: 20.5, 90th percentile 66.82
+train_loss: 1.86961, 10th percentile: 1.22134, 50th percentile: 1.91185, 90th percentile 2.43453
+test_accuracy: 34.9335, 10th percentile: 34.9335, 50th percentile: 34.9335, 90th percentile 34.9335
+test_loss: 1.7474, 10th percentile: 1.7474, 50th percentile: 1.7474, 90th percentile 1.7474
+--- Round 972 of 1000: Training 10 Clients ---
+train_accuracy: 26.9545, 10th percentile: 0.2, 50th percentile: 17.1, 90th percentile 60.5
+train_loss: 2.0104, 10th percentile: 1.12395, 50th percentile: 2.04971, 90th percentile 2.92829
+test_accuracy: 30.183, 10th percentile: 30.183, 50th percentile: 30.183, 90th percentile 30.183
+test_loss: 1.90684, 10th percentile: 1.90684, 50th percentile: 1.90684, 90th percentile 1.90684
+--- Round 973 of 1000: Training 10 Clients ---
+train_accuracy: 24.5105, 10th percentile: 0, 50th percentile: 10.9, 90th percentile 67.82
+train_loss: 2.03129, 10th percentile: 1.10103, 50th percentile: 2.1882, 90th percentile 2.57562
+test_accuracy: 28.7829, 10th percentile: 28.7829, 50th percentile: 28.7829, 90th percentile 28.7829
+test_loss: 1.89032, 10th percentile: 1.89032, 50th percentile: 1.89032, 90th percentile 1.89032
+--- Round 974 of 1000: Training 10 Clients ---
+train_accuracy: 29.3746, 10th percentile: 0, 50th percentile: 23.3, 90th percentile 61.44
+train_loss: 2.00539, 10th percentile: 1.21071, 50th percentile: 1.68981, 90th percentile 3.14575
+test_accuracy: 30.9931, 10th percentile: 30.9931, 50th percentile: 30.9931, 90th percentile 30.9931
+test_loss: 1.91746, 10th percentile: 1.91746, 50th percentile: 1.91746, 90th percentile 1.91746
+--- Round 975 of 1000: Training 10 Clients ---
+train_accuracy: 32.2106, 10th percentile: 1.86, 50th percentile: 24.3, 90th percentile 70.4
+train_loss: 1.82781, 10th percentile: 1.22356, 50th percentile: 1.78462, 90th percentile 2.63361
+test_accuracy: 34.7335, 10th percentile: 34.7335, 50th percentile: 34.7335, 90th percentile 34.7335
+test_loss: 1.77016, 10th percentile: 1.77016, 50th percentile: 1.77016, 90th percentile 1.77016
+--- Round 976 of 1000: Training 10 Clients ---
+train_accuracy: 29.7286, 10th percentile: 4.7, 50th percentile: 18.9, 90th percentile 76
+train_loss: 1.83587, 10th percentile: 1.15448, 50th percentile: 1.85165, 90th percentile 2.49025
+test_accuracy: 34.1634, 10th percentile: 34.1634, 50th percentile: 34.1634, 90th percentile 34.1634
+test_loss: 1.74151, 10th percentile: 1.74151, 50th percentile: 1.74151, 90th percentile 1.74151
+--- Round 977 of 1000: Training 10 Clients ---
+train_accuracy: 36.6867, 10th percentile: 7.74, 50th percentile: 38.6, 90th percentile 60.42
+train_loss: 1.71396, 10th percentile: 1.34406, 50th percentile: 1.66183, 90th percentile 2.22215
+test_accuracy: 40.004, 10th percentile: 40.004, 50th percentile: 40.004, 90th percentile 40.004
+test_loss: 1.63931, 10th percentile: 1.63931, 50th percentile: 1.63931, 90th percentile 1.63931
+--- Round 978 of 1000: Training 10 Clients ---
+train_accuracy: 34.0867, 10th percentile: 5.78, 50th percentile: 19.6, 90th percentile 74.5
+train_loss: 1.75028, 10th percentile: 1.1269, 50th percentile: 1.91191, 90th percentile 2.26835
+test_accuracy: 36.9437, 10th percentile: 36.9437, 50th percentile: 36.9437, 90th percentile 36.9437
+test_loss: 1.67127, 10th percentile: 1.67127, 50th percentile: 1.67127, 90th percentile 1.67127
+--- Round 979 of 1000: Training 10 Clients ---
+train_accuracy: 35.6087, 10th percentile: 2.2, 50th percentile: 43.8, 90th percentile 57.92
+train_loss: 1.76261, 10th percentile: 1.25807, 50th percentile: 1.47659, 90th percentile 2.65865
+test_accuracy: 39.4439, 10th percentile: 39.4439, 50th percentile: 39.4439, 90th percentile 39.4439
+test_loss: 1.68112, 10th percentile: 1.68112, 50th percentile: 1.68112, 90th percentile 1.68112
+--- Round 980 of 1000: Training 10 Clients ---
+train_accuracy: 29.9706, 10th percentile: 3.58, 50th percentile: 24.5, 90th percentile 61.62
+train_loss: 1.86544, 10th percentile: 1.46454, 50th percentile: 1.93065, 90th percentile 2.51939
+test_accuracy: 34.0934, 10th percentile: 34.0934, 50th percentile: 34.0934, 90th percentile 34.0934
+test_loss: 1.77533, 10th percentile: 1.77533, 50th percentile: 1.77533, 90th percentile 1.77533
+--- Round 981 of 1000: Training 10 Clients ---
+train_accuracy: 25.9045, 10th percentile: 1.98, 50th percentile: 6.4, 90th percentile 71.24
+train_loss: 1.91066, 10th percentile: 1.04314, 50th percentile: 2.04391, 90th percentile 2.59512
+test_accuracy: 28.8829, 10th percentile: 28.8829, 50th percentile: 28.8829, 90th percentile 28.8829
+test_loss: 1.7918, 10th percentile: 1.7918, 50th percentile: 1.7918, 90th percentile 1.7918
+--- Round 982 of 1000: Training 10 Clients ---
+train_accuracy: 29.7066, 10th percentile: 0.98, 50th percentile: 19.1, 90th percentile 73.6
+train_loss: 1.85243, 10th percentile: 1.21123, 50th percentile: 1.8, 90th percentile 2.63409
+test_accuracy: 32.8733, 10th percentile: 32.8733, 50th percentile: 32.8733, 90th percentile 32.8733
+test_loss: 1.76314, 10th percentile: 1.76314, 50th percentile: 1.76314, 90th percentile 1.76314
+--- Round 983 of 1000: Training 10 Clients ---
+train_accuracy: 28.1406, 10th percentile: 3.14, 50th percentile: 13.6, 90th percentile 76.7
+train_loss: 1.87157, 10th percentile: 1.05212, 50th percentile: 1.96118, 90th percentile 2.44162
+test_accuracy: 32.4932, 10th percentile: 32.4932, 50th percentile: 32.4932, 90th percentile 32.4932
+test_loss: 1.77004, 10th percentile: 1.77004, 50th percentile: 1.77004, 90th percentile 1.77004
+--- Round 984 of 1000: Training 10 Clients ---
+train_accuracy: 28.0006, 10th percentile: 3.38, 50th percentile: 19.5, 90th percentile 66.52
+train_loss: 1.97227, 10th percentile: 1.02689, 50th percentile: 1.99258, 90th percentile 2.80293
+test_accuracy: 30.233, 10th percentile: 30.233, 50th percentile: 30.233, 90th percentile 30.233
+test_loss: 1.86663, 10th percentile: 1.86663, 50th percentile: 1.86663, 90th percentile 1.86663
+--- Round 985 of 1000: Training 10 Clients ---
+train_accuracy: 33.3427, 10th percentile: 0.38, 50th percentile: 29.9297, 90th percentile 67.6
+train_loss: 1.82731, 10th percentile: 1.05202, 50th percentile: 1.76304, 90th percentile 2.74718
+test_accuracy: 35.7536, 10th percentile: 35.7536, 50th percentile: 35.7536, 90th percentile 35.7536
+test_loss: 1.76019, 10th percentile: 1.76019, 50th percentile: 1.76019, 90th percentile 1.76019
+--- Round 986 of 1000: Training 10 Clients ---
+train_accuracy: 34.1567, 10th percentile: 2.76, 50th percentile: 37.4, 90th percentile 73
+train_loss: 1.76248, 10th percentile: 1.05126, 50th percentile: 1.57454, 90th percentile 2.47282
+test_accuracy: 36.3036, 10th percentile: 36.3036, 50th percentile: 36.3036, 90th percentile 36.3036
+test_loss: 1.70876, 10th percentile: 1.70876, 50th percentile: 1.70876, 90th percentile 1.70876
+--- Round 987 of 1000: Training 10 Clients ---
+train_accuracy: 30.2646, 10th percentile: 3.08, 50th percentile: 21.9, 90th percentile 58.04
+train_loss: 1.88458, 10th percentile: 1.13958, 50th percentile: 2.16104, 90th percentile 2.36388
+test_accuracy: 31.5532, 10th percentile: 31.5532, 50th percentile: 31.5532, 90th percentile 31.5532
+test_loss: 1.85445, 10th percentile: 1.85445, 50th percentile: 1.85445, 90th percentile 1.85445
+--- Round 988 of 1000: Training 10 Clients ---
+train_accuracy: 15.3643, 10th percentile: 0, 50th percentile: 0.9, 90th percentile 55.94
+train_loss: 2.71334, 10th percentile: 0.972124, 50th percentile: 2.97281, 90th percentile 3.68903
+test_accuracy: 17.4417, 10th percentile: 17.4417, 50th percentile: 17.4417, 90th percentile 17.4417
+test_loss: 2.38196, 10th percentile: 2.38196, 50th percentile: 2.38196, 90th percentile 2.38196
+--- Round 989 of 1000: Training 10 Clients ---
+train_accuracy: 25.4385, 10th percentile: 0, 50th percentile: 7.3, 90th percentile 82.62
+train_loss: 1.95845, 10th percentile: 0.852514, 50th percentile: 2.17218, 90th percentile 2.7072
+test_accuracy: 28.6329, 10th percentile: 28.6329, 50th percentile: 28.6329, 90th percentile 28.6329
+test_loss: 1.8691, 10th percentile: 1.8691, 50th percentile: 1.8691, 90th percentile 1.8691
+--- Round 990 of 1000: Training 10 Clients ---
+train_accuracy: 37.2907, 10th percentile: 9.26, 50th percentile: 38.2, 90th percentile 58.48
+train_loss: 1.70191, 10th percentile: 1.4101, 50th percentile: 1.59913, 90th percentile 2.02488
+test_accuracy: 39.794, 10th percentile: 39.794, 50th percentile: 39.794, 90th percentile 39.794
+test_loss: 1.64567, 10th percentile: 1.64567, 50th percentile: 1.64567, 90th percentile 1.64567
+--- Round 991 of 1000: Training 10 Clients ---
+train_accuracy: 32.0666, 10th percentile: 2.56, 50th percentile: 27.1, 90th percentile 62.32
+train_loss: 1.81569, 10th percentile: 1.0801, 50th percentile: 1.80939, 90th percentile 2.51603
+test_accuracy: 36.2236, 10th percentile: 36.2236, 50th percentile: 36.2236, 90th percentile 36.2236
+test_loss: 1.72083, 10th percentile: 1.72083, 50th percentile: 1.72083, 90th percentile 1.72083
+--- Round 992 of 1000: Training 10 Clients ---
+train_accuracy: 26.9365, 10th percentile: 4.88, 50th percentile: 19.8, 90th percentile 52.4
+train_loss: 1.88459, 10th percentile: 1.50416, 50th percentile: 1.88537, 90th percentile 2.44134
+test_accuracy: 32.8533, 10th percentile: 32.8533, 50th percentile: 32.8533, 90th percentile 32.8533
+test_loss: 1.7411, 10th percentile: 1.7411, 50th percentile: 1.7411, 90th percentile 1.7411
+--- Round 993 of 1000: Training 10 Clients ---
+train_accuracy: 30.1906, 10th percentile: 0.94, 50th percentile: 20.7, 90th percentile 76.56
+train_loss: 1.86418, 10th percentile: 1.09624, 50th percentile: 1.93374, 90th percentile 2.61311
+test_accuracy: 32.8333, 10th percentile: 32.8333, 50th percentile: 32.8333, 90th percentile 32.8333
+test_loss: 1.81324, 10th percentile: 1.81324, 50th percentile: 1.81324, 90th percentile 1.81324
+--- Round 994 of 1000: Training 10 Clients ---
+train_accuracy: 34.8267, 10th percentile: 12.46, 50th percentile: 32, 90th percentile 63.62
+train_loss: 1.7712, 10th percentile: 1.33304, 50th percentile: 1.70721, 90th percentile 2.42016
+test_accuracy: 38.8439, 10th percentile: 38.8439, 50th percentile: 38.8439, 90th percentile 38.8439
+test_loss: 1.65313, 10th percentile: 1.65313, 50th percentile: 1.65313, 90th percentile 1.65313
+--- Round 995 of 1000: Training 10 Clients ---
+train_accuracy: 28.2866, 10th percentile: 0, 50th percentile: 22.2, 90th percentile 68.88
+train_loss: 2.01422, 10th percentile: 0.9941, 50th percentile: 1.9966, 90th percentile 2.87052
+test_accuracy: 31.7432, 10th percentile: 31.7432, 50th percentile: 31.7432, 90th percentile 31.7432
+test_loss: 1.87742, 10th percentile: 1.87742, 50th percentile: 1.87742, 90th percentile 1.87742
+--- Round 996 of 1000: Training 10 Clients ---
+train_accuracy: 33.9547, 10th percentile: 1.66, 50th percentile: 31.7, 90th percentile 66.34
+train_loss: 1.82804, 10th percentile: 1.2102, 50th percentile: 1.65875, 90th percentile 2.79075
+test_accuracy: 37.2637, 10th percentile: 37.2637, 50th percentile: 37.2637, 90th percentile 37.2637
+test_loss: 1.74213, 10th percentile: 1.74213, 50th percentile: 1.74213, 90th percentile 1.74213
+--- Round 997 of 1000: Training 10 Clients ---
+train_accuracy: 24.6625, 10th percentile: 0, 50th percentile: 15.5, 90th percentile 64.64
+train_loss: 2.13439, 10th percentile: 1.3391, 50th percentile: 2.41403, 90th percentile 2.84112
+test_accuracy: 29.2329, 10th percentile: 29.2329, 50th percentile: 29.2329, 90th percentile 29.2329
+test_loss: 1.92129, 10th percentile: 1.92129, 50th percentile: 1.92129, 90th percentile 1.92129
+--- Round 998 of 1000: Training 10 Clients ---
+train_accuracy: 24.5725, 10th percentile: 0.6, 50th percentile: 20.2, 90th percentile 46.4
+train_loss: 2.17149, 10th percentile: 1.19731, 50th percentile: 2.20751, 90th percentile 3.33444
+test_accuracy: 26.1826, 10th percentile: 26.1826, 50th percentile: 26.1826, 90th percentile 26.1826
+test_loss: 2.12047, 10th percentile: 2.12047, 50th percentile: 2.12047, 90th percentile 2.12047
+--- Round 999 of 1000: Training 10 Clients ---
+train_accuracy: 31.8626, 10th percentile: 1.82, 50th percentile: 20.1, 90th percentile 66.42
+train_loss: 1.82388, 10th percentile: 1.14427, 50th percentile: 1.91508, 90th percentile 2.36656
+test_accuracy: 33.1833, 10th percentile: 33.1833, 50th percentile: 33.1833, 90th percentile 33.1833
+test_loss: 1.78069, 10th percentile: 1.78069, 50th percentile: 1.78069, 90th percentile 1.78069
+--- Round 1000 of 1000: Training 10 Clients ---
+train_accuracy: 27.9426, 10th percentile: 0.18, 50th percentile: 23.3, 90th percentile 55.26
+train_loss: 1.97121, 10th percentile: 1.32337, 50th percentile: 1.72421, 90th percentile 3.05232
+test_accuracy: 31.6532, 10th percentile: 31.6532, 50th percentile: 31.6532, 90th percentile 31.6532
+test_loss: 1.84339, 10th percentile: 1.84339, 50th percentile: 1.84339, 90th percentile 1.84339
