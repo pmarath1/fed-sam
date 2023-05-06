@@ -82,7 +82,7 @@ text
 
 ## Contributors
 Paritosh Marathe :https://github.com/pmarath1
-Contributions: implementation of swa client  and training 
+Contributions: implementation of swa client 
 
 Abhishek Satpute : https://github.com/asatput1
-Contributions : implementaion of swa client test and training
+Contributions : test and training of swa client
